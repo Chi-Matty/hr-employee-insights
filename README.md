@@ -66,3 +66,22 @@ This project demonstrates real-world HR data analysis — transforming raw, inco
 
 ## 📂 Project Structure
 
+hr-employee-insights/
+│
+├── data/
+│   └── hr_employee_data.csv
+│
+├── notebooks/
+│   └── hr_analysis.ipynb
+│
+├── scripts/
+│   └── clean_hr_data.py
+│
+├── visuals/
+│   └── turnover_by_department.png
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+└── LICENSE
+
