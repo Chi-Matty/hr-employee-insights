@@ -7,11 +7,11 @@ This project is designed to demonstrate practical data analysis skills in employ
 ⸻
 
 
-🛠️ Project Tasks
+### 🛠️ Project Tasks
 
 1. Data Cleaning
 	•	Identify and quantify missing values across all columns.
 	•	Apply suitable imputation techniques:
-	•	Numerical columns: fill with mean or median values.
-	•	Categorical columns: fill with mode or predefined constants.
+	•	Numerical columns
+	•	Categorical columns
 	•	Drop rows only when missing data is critical and non-recoverable.
