@@ -53,8 +53,7 @@ Use basic business logic to identify employees at risk of leaving (e.g. low sala
 - Python
   - pandas
   - matplotlib
-  - seaborn
-- Jupyter Notebook
+  - Jupyter Notebook
 
 ---
 
