@@ -10,8 +10,6 @@ Data cleaning and analysis of HR employee records with insights on turnover and 
 `hr_employee_data.csv`  
 Synthetic HR dataset with 1,000 rows. Includes employee demographics, salary, tenure, performance scores, and appraisal history.
 
-> 🔗 Download: [Link to CSV file](#) *(hr_employee_data.csv)*
-
 ---
 
 ## 🛠️ Project Tasks
