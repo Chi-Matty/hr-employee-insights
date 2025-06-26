@@ -1,0 +1,1001 @@
+EmployeeID,Name,Age,Gender,Department,Position,Years_at_Company,Monthly_Salary,Education_Level,Performance_Score,Last_Appraisal_Year,Left_Company
+1,Employee_1,50.0,Female,HR,Manager,21,6058.0,PhD,3.95,2021,No
+2,Employee_2,36.0,Male,Marketing,Manager,18,6978.0,Masters,3.15,2022,No
+3,Employee_3,29.0,Male,,Intern,15,14169.0,PhD,4.36,2021,Yes
+4,Employee_4,42.0,Male,IT,Assistant,20,9031.0,Bachelors,2.36,2024,No
+5,Employee_5,,,Finance,Assistant,26,7120.0,PhD,,2023,Yes
+6,Employee_6,44.0,,,Manager,23,13378.0,Masters,4.98,2022,Yes
+7,Employee_7,32.0,Non-Binary,IT,Intern,21,5485.0,Masters,2.26,2021,No
+8,Employee_8,32.0,Female,Finance,Assistant,3,10612.0,Masters,3.7,2024,Yes
+9,Employee_9,45.0,Male,Marketing,Assistant,1,,PhD,4.38,2024,Yes
+10,Employee_10,57.0,Female,Sales,Assistant,29,5047.0,Bachelors,4.66,2021,Yes
+11,Employee_11,45.0,Non-Binary,Marketing,Intern,24,13456.0,High School,,2024,No
+12,Employee_12,24.0,Non-Binary,IT,Intern,12,2836.0,Bachelors,,2024,No
+13,Employee_13,43.0,Female,IT,Manager,27,12665.0,PhD,2.31,2022,No
+14,Employee_14,23.0,,Marketing,Analyst,0,5479.0,PhD,1.08,2024,Yes
+15,Employee_15,45.0,Female,Finance,Assistant,16,6468.0,High School,4.04,2021,Yes
+16,Employee_16,51.0,Male,,Analyst,12,3410.0,PhD,1.17,2022,No
+17,Employee_17,59.0,Female,,Intern,3,4496.0,Masters,4.46,2021,No
+18,Employee_18,,Female,HR,Intern,6,,Masters,1.47,2023,Yes
+19,Employee_19,42.0,Female,Finance,Intern,16,,Masters,1.69,2021,No
+20,Employee_20,54.0,Non-Binary,Marketing,Analyst,8,8629.0,Masters,2.91,2021,No
+21,Employee_21,33.0,Non-Binary,Finance,Intern,3,8350.0,Masters,3.95,2022,No
+22,Employee_22,,Male,Marketing,Manager,18,6704.0,PhD,1.56,2024,No
+23,Employee_23,46.0,Male,IT,Intern,0,9946.0,High School,2.76,2021,No
+24,Employee_24,48.0,Non-Binary,Finance,Executive,9,14449.0,High School,2.93,2022,Yes
+25,Employee_25,49.0,Non-Binary,Marketing,Analyst,3,11019.0,Masters,,2023,No
+26,Employee_26,37.0,Non-Binary,IT,Executive,8,12491.0,PhD,,2022,No
+27,Employee_27,36.0,Female,HR,Intern,12,2814.0,Bachelors,4.35,2022,Yes
+28,Employee_28,24.0,,Marketing,Manager,13,14237.0,Bachelors,3.01,2024,Yes
+29,Employee_29,,Non-Binary,HR,Assistant,9,3634.0,PhD,1.06,2021,Yes
+30,Employee_30,28.0,,HR,Intern,5,13438.0,Masters,4.21,2023,Yes
+31,Employee_31,42.0,Female,Sales,Manager,15,,High School,4.92,2022,No
+32,Employee_32,30.0,Male,Finance,Analyst,5,10602.0,PhD,3.42,2021,No
+33,Employee_33,39.0,Non-Binary,Marketing,Executive,16,12212.0,Bachelors,3.01,2021,No
+34,Employee_34,,Non-Binary,HR,Executive,9,10847.0,Bachelors,4.51,2022,No
+35,Employee_35,46.0,Female,Sales,Executive,17,8092.0,Bachelors,4.81,2021,Yes
+36,Employee_36,35.0,Non-Binary,IT,Analyst,26,4224.0,Masters,4.02,2022,Yes
+37,Employee_37,30.0,Male,Marketing,Manager,21,5843.0,Bachelors,2.78,2022,No
+38,Employee_38,47.0,Male,HR,Analyst,17,3386.0,PhD,3.37,2022,No
+39,Employee_39,,Male,Finance,Executive,2,13765.0,PhD,3.8,2023,No
+40,Employee_40,,Non-Binary,Sales,Intern,19,13497.0,Bachelors,1.78,2022,No
+41,Employee_41,49.0,Non-Binary,HR,Assistant,26,,PhD,2.79,2024,Yes
+42,Employee_42,,Non-Binary,Finance,Analyst,20,10178.0,Bachelors,4.32,2021,No
+43,Employee_43,29.0,Non-Binary,HR,Analyst,24,11604.0,Bachelors,3.62,2023,Yes
+44,Employee_44,56.0,Non-Binary,Marketing,Manager,27,5857.0,High School,2.64,2021,Yes
+45,Employee_45,,,Marketing,Manager,14,3370.0,Masters,3.65,2023,Yes
+46,Employee_46,38.0,,Marketing,Analyst,14,14800.0,Masters,1.47,2024,Yes
+47,Employee_47,57.0,Male,Sales,Executive,3,9251.0,High School,2.61,2023,No
+48,Employee_48,25.0,Non-Binary,Marketing,Assistant,28,2997.0,High School,4.17,2023,No
+49,Employee_49,23.0,Male,Finance,Manager,26,4256.0,Masters,1.88,2023,No
+50,Employee_50,27.0,,HR,Executive,8,3617.0,Bachelors,1.74,2021,No
+51,Employee_51,25.0,Non-Binary,IT,Intern,26,14101.0,Bachelors,4.8,2022,Yes
+52,Employee_52,50.0,Male,Finance,Manager,25,,Masters,1.84,2021,Yes
+53,Employee_53,39.0,Non-Binary,Finance,Executive,18,4147.0,Bachelors,2.04,2022,Yes
+54,Employee_54,47.0,Female,Marketing,Executive,23,9492.0,High School,4.88,2021,No
+55,Employee_55,55.0,Non-Binary,Sales,Assistant,27,13675.0,Bachelors,3.94,2024,Yes
+56,Employee_56,31.0,Female,HR,Assistant,16,9271.0,Bachelors,3.8,2024,Yes
+57,Employee_57,57.0,Female,Sales,Intern,10,2642.0,PhD,4.41,2023,Yes
+58,Employee_58,35.0,Non-Binary,,Executive,24,5261.0,PhD,1.46,2024,Yes
+59,Employee_59,52.0,Male,HR,Executive,8,5935.0,PhD,3.82,2023,No
+60,Employee_60,36.0,Female,Sales,Assistant,9,9122.0,Bachelors,3.01,2022,Yes
+61,Employee_61,29.0,Male,Finance,Manager,17,13123.0,Masters,4.32,2024,Yes
+62,Employee_62,35.0,Female,HR,Manager,19,9569.0,High School,3.03,2022,No
+63,Employee_63,44.0,Non-Binary,Sales,Analyst,12,7012.0,Bachelors,3.48,2021,No
+64,Employee_64,42.0,Non-Binary,HR,Assistant,7,,Masters,2.91,2022,No
+65,Employee_65,37.0,,IT,Analyst,6,5196.0,Bachelors,2.91,2021,Yes
+66,Employee_66,39.0,Non-Binary,Finance,Assistant,16,4217.0,High School,4.07,2022,Yes
+67,Employee_67,45.0,Female,Marketing,Intern,20,5572.0,Bachelors,3.51,2022,Yes
+68,Employee_68,47.0,Non-Binary,HR,Executive,22,11759.0,High School,3.53,2024,Yes
+69,Employee_69,46.0,Male,IT,Intern,14,5286.0,Bachelors,2.8,2022,No
+70,Employee_70,50.0,Non-Binary,,Assistant,19,6291.0,High School,,2024,Yes
+71,Employee_71,,Male,Marketing,Executive,14,11980.0,Bachelors,3.98,2024,Yes
+72,Employee_72,22.0,Non-Binary,HR,Manager,0,6371.0,High School,4.3,2023,No
+73,Employee_73,46.0,Male,Sales,Manager,24,4306.0,PhD,3.79,2023,No
+74,Employee_74,28.0,Non-Binary,HR,Analyst,13,4004.0,Bachelors,4.7,2021,No
+75,Employee_75,30.0,Male,,Assistant,4,5808.0,Bachelors,4.28,2022,Yes
+76,Employee_76,45.0,Female,Marketing,Assistant,10,,Masters,3.25,2021,Yes
+77,Employee_77,22.0,Female,HR,Manager,15,7548.0,Masters,3.69,2022,Yes
+78,Employee_78,29.0,Male,Sales,Intern,1,13643.0,High School,4.71,2023,Yes
+79,Employee_79,45.0,Non-Binary,HR,Executive,7,,Bachelors,3.48,2023,Yes
+80,Employee_80,32.0,Male,Finance,Intern,10,4190.0,High School,4.3,2022,No
+81,Employee_81,38.0,Non-Binary,Sales,Intern,28,12036.0,PhD,3.76,2022,No
+82,Employee_82,29.0,Female,IT,Manager,17,5803.0,Masters,3.21,2023,Yes
+83,Employee_83,56.0,Non-Binary,Marketing,Manager,2,5613.0,High School,1.97,2023,Yes
+84,Employee_84,56.0,Female,HR,Manager,29,11574.0,High School,2.7,2021,Yes
+85,Employee_85,54.0,Non-Binary,Sales,Analyst,25,14926.0,Masters,,2023,Yes
+86,Employee_86,26.0,Non-Binary,Finance,Intern,0,13354.0,Bachelors,3.63,2022,Yes
+87,Employee_87,49.0,Non-Binary,Sales,Assistant,10,10350.0,High School,3.26,2021,No
+88,Employee_88,28.0,Male,Finance,Executive,15,8916.0,Masters,4.73,2022,No
+89,Employee_89,30.0,Male,IT,Analyst,17,4004.0,Bachelors,3.35,2024,No
+90,Employee_90,29.0,Female,Marketing,Assistant,29,13155.0,PhD,3.1,2021,Yes
+91,Employee_91,33.0,Female,IT,Intern,15,13245.0,Masters,4.04,2022,Yes
+92,Employee_92,55.0,Male,HR,Manager,22,,High School,3.85,2023,No
+93,Employee_93,54.0,Female,Sales,Intern,9,12440.0,PhD,1.77,2024,No
+94,Employee_94,44.0,,Finance,Executive,17,6424.0,Bachelors,2.89,2022,Yes
+95,Employee_95,,Non-Binary,Finance,Analyst,5,11115.0,Bachelors,2.89,2021,No
+96,Employee_96,58.0,Female,Sales,Analyst,18,14170.0,Masters,,2022,No
+97,Employee_97,,Female,Sales,Executive,3,12283.0,Masters,3.07,2024,Yes
+98,Employee_98,,Male,HR,Assistant,26,,Masters,2.65,2021,No
+99,Employee_99,48.0,,IT,Assistant,12,10600.0,Bachelors,,2024,No
+100,Employee_100,56.0,,Finance,Analyst,23,11184.0,PhD,2.65,2022,No
+101,Employee_101,22.0,Non-Binary,HR,Analyst,13,2691.0,Bachelors,1.29,2023,Yes
+102,Employee_102,56.0,,IT,Manager,2,11190.0,High School,3.3,2023,No
+103,Employee_103,58.0,,,Assistant,9,7417.0,Bachelors,4.41,2022,No
+104,Employee_104,35.0,Male,,Executive,5,8331.0,High School,3.9,2022,No
+105,Employee_105,24.0,Female,Sales,Assistant,0,11948.0,PhD,2.44,2022,Yes
+106,Employee_106,22.0,Non-Binary,Sales,Manager,22,12660.0,Masters,1.35,2021,Yes
+107,Employee_107,26.0,Male,IT,Analyst,23,6822.0,Masters,1.81,2024,No
+108,Employee_108,47.0,Female,Marketing,Analyst,26,12878.0,Bachelors,3.18,2024,Yes
+109,Employee_109,35.0,Male,IT,Manager,13,9499.0,Masters,1.83,2024,No
+110,Employee_110,48.0,Female,,Executive,7,11508.0,PhD,3.18,2022,Yes
+111,Employee_111,30.0,Male,HR,Analyst,18,13912.0,Masters,1.93,2024,Yes
+112,Employee_112,36.0,Male,HR,Intern,13,9782.0,Bachelors,4.4,2022,No
+113,Employee_113,36.0,Non-Binary,,Analyst,9,12165.0,PhD,2.59,2021,No
+114,Employee_114,47.0,Male,,Intern,16,11778.0,High School,1.98,2023,No
+115,Employee_115,34.0,Female,Finance,Manager,8,14891.0,Bachelors,4.25,2022,Yes
+116,Employee_116,53.0,,Sales,Manager,28,4374.0,High School,2.37,2022,No
+117,Employee_117,53.0,,Marketing,Analyst,5,11562.0,PhD,1.45,2023,Yes
+118,Employee_118,25.0,,IT,Assistant,10,7263.0,Bachelors,3.28,2023,Yes
+119,Employee_119,51.0,,Sales,Intern,24,12734.0,Bachelors,3.33,2021,No
+120,Employee_120,,Female,Sales,Executive,6,10964.0,PhD,3.86,2024,Yes
+121,Employee_121,44.0,Male,IT,Analyst,16,11721.0,Masters,1.96,2022,No
+122,Employee_122,36.0,Male,Sales,Executive,27,,Bachelors,2.78,2024,Yes
+123,Employee_123,50.0,Female,Marketing,Analyst,27,,Bachelors,2.13,2022,No
+124,Employee_124,57.0,Non-Binary,,Assistant,0,3551.0,High School,1.32,2021,Yes
+125,Employee_125,34.0,Male,Sales,Assistant,21,14725.0,Masters,4.51,2023,Yes
+126,Employee_126,53.0,Non-Binary,Marketing,Assistant,4,12265.0,High School,3.92,2021,No
+127,Employee_127,28.0,Female,,Assistant,8,13882.0,High School,2.21,2023,Yes
+128,Employee_128,43.0,Female,Marketing,Manager,17,10038.0,Masters,3.4,2024,No
+129,Employee_129,,Male,Finance,Manager,23,9911.0,Masters,,2024,Yes
+130,Employee_130,23.0,Female,Marketing,Intern,26,,PhD,4.56,2021,Yes
+131,Employee_131,27.0,Male,IT,Executive,20,13981.0,Masters,1.46,2023,Yes
+132,Employee_132,49.0,Female,Finance,Analyst,1,8820.0,Bachelors,1.02,2021,No
+133,Employee_133,49.0,Female,HR,Analyst,28,14439.0,Masters,3.01,2023,No
+134,Employee_134,41.0,Male,IT,Manager,25,4605.0,PhD,3.33,2023,No
+135,Employee_135,51.0,Male,Marketing,Analyst,10,2807.0,PhD,,2024,No
+136,Employee_136,32.0,Male,,Manager,26,10237.0,PhD,1.22,2024,No
+137,Employee_137,49.0,Female,HR,Intern,27,5859.0,Masters,2.26,2023,Yes
+138,Employee_138,46.0,Female,,Executive,5,5676.0,Masters,3.0,2023,Yes
+139,Employee_139,54.0,Non-Binary,HR,Intern,25,,High School,1.87,2023,No
+140,Employee_140,,,Marketing,Assistant,7,7866.0,High School,,2024,Yes
+141,Employee_141,48.0,Female,HR,Assistant,3,13439.0,Bachelors,1.35,2024,Yes
+142,Employee_142,34.0,Female,Sales,Assistant,17,4017.0,High School,2.95,2022,Yes
+143,Employee_143,24.0,Male,IT,Intern,27,8726.0,Bachelors,,2023,Yes
+144,Employee_144,27.0,Non-Binary,HR,Analyst,10,7805.0,PhD,2.05,2022,No
+145,Employee_145,29.0,Male,Marketing,Executive,4,12070.0,High School,3.5,2023,Yes
+146,Employee_146,48.0,Non-Binary,Marketing,Assistant,14,8369.0,Masters,4.32,2024,No
+147,Employee_147,30.0,Female,HR,Assistant,27,10539.0,High School,1.76,2022,No
+148,Employee_148,58.0,Non-Binary,Marketing,Assistant,17,7391.0,Bachelors,4.67,2022,Yes
+149,Employee_149,54.0,Female,Finance,Executive,1,7492.0,High School,3.21,2021,No
+150,Employee_150,45.0,,,Assistant,21,4461.0,PhD,,2023,Yes
+151,Employee_151,,Male,Finance,Executive,10,14997.0,Masters,2.72,2024,Yes
+152,Employee_152,53.0,,Sales,Assistant,25,5363.0,Bachelors,2.25,2021,Yes
+153,Employee_153,53.0,Non-Binary,HR,Intern,24,13348.0,Masters,3.9,2021,No
+154,Employee_154,45.0,Female,Sales,Intern,12,13186.0,Masters,,2023,No
+155,Employee_155,33.0,Male,Marketing,Executive,3,9103.0,Bachelors,,2021,No
+156,Employee_156,23.0,,Sales,Intern,21,7067.0,Masters,4.94,2023,Yes
+157,Employee_157,24.0,Female,Marketing,Executive,6,9013.0,Masters,,2021,Yes
+158,Employee_158,58.0,Male,Marketing,Intern,28,,High School,3.41,2023,Yes
+159,Employee_159,38.0,Female,IT,Intern,10,14255.0,Masters,2.36,2024,No
+160,Employee_160,23.0,Female,Finance,Executive,21,11614.0,Masters,3.18,2023,Yes
+161,Employee_161,23.0,Female,Marketing,Analyst,23,14924.0,Masters,1.16,2023,Yes
+162,Employee_162,,Female,IT,Intern,3,13651.0,Masters,3.98,2022,No
+163,Employee_163,44.0,Female,Finance,Assistant,27,2683.0,Bachelors,2.78,2024,No
+164,Employee_164,58.0,Non-Binary,Marketing,Analyst,14,,PhD,1.08,2024,No
+165,Employee_165,53.0,Male,Marketing,Executive,0,5858.0,High School,1.25,2024,Yes
+166,Employee_166,54.0,Non-Binary,Sales,Analyst,22,9115.0,Masters,2.55,2021,Yes
+167,Employee_167,22.0,Male,Sales,Manager,2,12090.0,Masters,3.33,2022,Yes
+168,Employee_168,40.0,Non-Binary,Finance,Manager,13,9297.0,Bachelors,2.86,2024,No
+169,Employee_169,23.0,Female,,Intern,5,13488.0,PhD,,2021,No
+170,Employee_170,47.0,Male,HR,Intern,17,11228.0,Masters,2.92,2021,No
+171,Employee_171,,Male,Sales,Assistant,24,10178.0,Bachelors,3.65,2021,No
+172,Employee_172,27.0,Non-Binary,Finance,Analyst,0,8198.0,High School,1.88,2022,Yes
+173,Employee_173,53.0,Non-Binary,,Manager,5,3773.0,High School,1.45,2021,Yes
+174,Employee_174,,Male,Marketing,Intern,5,13659.0,Masters,3.39,2022,Yes
+175,Employee_175,32.0,Non-Binary,HR,Analyst,20,,Masters,2.94,2023,Yes
+176,Employee_176,38.0,Non-Binary,Finance,Intern,15,13741.0,PhD,1.11,2021,Yes
+177,Employee_177,59.0,Non-Binary,Marketing,Intern,28,3596.0,PhD,,2024,Yes
+178,Employee_178,45.0,Female,Sales,Manager,4,11997.0,Masters,1.42,2021,Yes
+179,Employee_179,26.0,Female,HR,Manager,16,11607.0,Bachelors,3.13,2023,Yes
+180,Employee_180,55.0,Non-Binary,Finance,Intern,9,13773.0,PhD,2.58,2023,No
+181,Employee_181,27.0,,HR,Executive,27,10502.0,Masters,,2021,No
+182,Employee_182,43.0,Female,Sales,Intern,20,6747.0,PhD,4.22,2023,Yes
+183,Employee_183,32.0,Female,,Intern,17,11720.0,Masters,2.2,2022,No
+184,Employee_184,37.0,Male,HR,Assistant,6,,High School,4.85,2022,Yes
+185,Employee_185,54.0,Male,IT,Assistant,2,12669.0,Masters,3.14,2021,Yes
+186,Employee_186,30.0,,Sales,Assistant,12,5854.0,High School,3.47,2022,No
+187,Employee_187,27.0,Non-Binary,Sales,Executive,14,13203.0,PhD,3.72,2022,Yes
+188,Employee_188,37.0,Non-Binary,Sales,Executive,19,2770.0,Masters,3.67,2024,Yes
+189,Employee_189,50.0,Non-Binary,IT,Intern,18,3686.0,PhD,3.04,2021,Yes
+190,Employee_190,,Non-Binary,IT,Assistant,2,14892.0,High School,,2023,Yes
+191,Employee_191,41.0,Male,Marketing,Executive,3,14456.0,Masters,1.22,2021,Yes
+192,Employee_192,57.0,Female,HR,Manager,4,,PhD,,2022,Yes
+193,Employee_193,40.0,Non-Binary,Marketing,Intern,0,4898.0,High School,2.43,2024,Yes
+194,Employee_194,47.0,Male,HR,Analyst,3,9495.0,PhD,2.33,2021,No
+195,Employee_195,,Non-Binary,IT,Intern,11,14927.0,Bachelors,2.55,2021,No
+196,Employee_196,40.0,Female,IT,Analyst,27,9799.0,High School,1.55,2022,Yes
+197,Employee_197,,Male,Marketing,Assistant,26,6682.0,High School,,2022,No
+198,Employee_198,53.0,,Finance,Analyst,23,12403.0,High School,,2021,Yes
+199,Employee_199,28.0,Female,Marketing,Assistant,9,4730.0,Masters,4.75,2022,Yes
+200,Employee_200,54.0,Male,,Manager,22,9011.0,Masters,2.97,2022,Yes
+201,Employee_201,39.0,Male,,Analyst,24,2628.0,Masters,3.8,2022,Yes
+202,Employee_202,22.0,Male,Sales,Intern,20,11961.0,Bachelors,4.42,2022,No
+203,Employee_203,32.0,Male,HR,Assistant,28,6172.0,Bachelors,2.67,2022,No
+204,Employee_204,49.0,Male,HR,Intern,25,12293.0,High School,2.24,2024,No
+205,Employee_205,46.0,Male,Finance,Executive,19,7265.0,Bachelors,4.75,2022,No
+206,Employee_206,44.0,Male,IT,Assistant,23,6470.0,PhD,3.06,2023,Yes
+207,Employee_207,52.0,Non-Binary,HR,Analyst,24,10045.0,High School,2.99,2021,No
+208,Employee_208,51.0,Female,IT,Assistant,12,14936.0,High School,1.71,2024,Yes
+209,Employee_209,56.0,Male,,Intern,22,8052.0,PhD,1.43,2024,Yes
+210,Employee_210,28.0,Non-Binary,Sales,Manager,13,,High School,4.37,2022,No
+211,Employee_211,37.0,Non-Binary,Finance,Assistant,22,14489.0,Bachelors,3.46,2021,Yes
+212,Employee_212,47.0,Non-Binary,IT,Analyst,4,9089.0,Masters,2.3,2023,No
+213,Employee_213,23.0,Female,HR,Executive,3,,PhD,1.77,2022,No
+214,Employee_214,22.0,Male,IT,Manager,13,14244.0,Bachelors,3.22,2021,No
+215,Employee_215,33.0,Non-Binary,HR,Executive,9,4841.0,PhD,3.34,2022,No
+216,Employee_216,26.0,Female,IT,Assistant,16,8384.0,PhD,1.83,2022,No
+217,Employee_217,58.0,Female,HR,Intern,9,13906.0,High School,4.41,2022,Yes
+218,Employee_218,53.0,Female,Marketing,Intern,25,10685.0,High School,1.34,2022,No
+219,Employee_219,30.0,,HR,Analyst,6,2749.0,Bachelors,2.42,2022,No
+220,Employee_220,56.0,Male,HR,Intern,15,,PhD,3.72,2022,Yes
+221,Employee_221,40.0,Non-Binary,Sales,Manager,0,7543.0,High School,2.1,2022,No
+222,Employee_222,37.0,Non-Binary,HR,Intern,16,,High School,4.31,2023,No
+223,Employee_223,24.0,Male,,Analyst,20,12017.0,PhD,3.96,2024,Yes
+224,Employee_224,41.0,Male,Finance,Assistant,28,9692.0,Bachelors,4.16,2023,Yes
+225,Employee_225,45.0,Male,Sales,Assistant,8,11675.0,Bachelors,1.48,2022,No
+226,Employee_226,54.0,Female,Marketing,Intern,5,11580.0,PhD,,2022,Yes
+227,Employee_227,,Male,Sales,Executive,18,13629.0,Bachelors,2.15,2023,No
+228,Employee_228,32.0,Non-Binary,Finance,Assistant,12,12809.0,High School,3.07,2023,Yes
+229,Employee_229,29.0,Male,Marketing,Intern,2,5172.0,PhD,,2024,No
+230,Employee_230,57.0,,IT,Analyst,6,9779.0,High School,,2023,No
+231,Employee_231,59.0,Female,IT,Intern,21,10031.0,Masters,3.82,2024,No
+232,Employee_232,41.0,Non-Binary,Sales,Assistant,8,12018.0,Masters,4.71,2022,Yes
+233,Employee_233,56.0,Non-Binary,Sales,Analyst,21,11162.0,Bachelors,3.95,2021,No
+234,Employee_234,46.0,Male,Finance,Intern,4,4487.0,Masters,2.23,2021,Yes
+235,Employee_235,56.0,Male,Finance,Manager,9,2590.0,High School,,2021,No
+236,Employee_236,46.0,Non-Binary,HR,Analyst,22,11221.0,Masters,3.78,2021,No
+237,Employee_237,50.0,Male,Finance,Manager,16,6559.0,High School,1.77,2022,No
+238,Employee_238,39.0,Female,HR,Executive,11,,Bachelors,1.37,2021,No
+239,Employee_239,39.0,Female,Marketing,Analyst,22,12378.0,Bachelors,,2023,No
+240,Employee_240,23.0,Male,Sales,Manager,15,10883.0,High School,4.29,2023,Yes
+241,Employee_241,56.0,Female,Marketing,Assistant,2,12678.0,Masters,1.41,2021,Yes
+242,Employee_242,37.0,,Finance,Assistant,29,14315.0,Bachelors,4.17,2023,Yes
+243,Employee_243,,Non-Binary,Marketing,Executive,24,9909.0,PhD,4.25,2024,No
+244,Employee_244,54.0,Non-Binary,Marketing,Analyst,21,,Bachelors,2.93,2022,No
+245,Employee_245,25.0,Female,Marketing,Analyst,8,6940.0,Masters,1.23,2021,Yes
+246,Employee_246,54.0,,Finance,Analyst,28,9847.0,PhD,1.7,2021,No
+247,Employee_247,35.0,Male,Marketing,Executive,14,3508.0,Masters,3.83,2022,No
+248,Employee_248,,Female,,Analyst,4,6283.0,High School,,2023,No
+249,Employee_249,41.0,Non-Binary,Finance,Assistant,22,9146.0,PhD,4.59,2022,Yes
+250,Employee_250,29.0,Female,Marketing,Manager,12,6798.0,Masters,3.33,2022,Yes
+251,Employee_251,,Non-Binary,Finance,Assistant,13,7168.0,PhD,1.5,2023,Yes
+252,Employee_252,24.0,,IT,Assistant,19,6787.0,Masters,1.49,2022,Yes
+253,Employee_253,38.0,Non-Binary,HR,Manager,14,4552.0,PhD,3.88,2023,Yes
+254,Employee_254,54.0,Female,Marketing,Assistant,15,8509.0,Masters,1.74,2023,No
+255,Employee_255,33.0,Male,IT,Executive,22,14000.0,High School,2.31,2022,No
+256,Employee_256,43.0,Female,IT,Manager,12,4216.0,PhD,2.95,2024,No
+257,Employee_257,43.0,Female,Finance,Assistant,16,2810.0,PhD,1.1,2023,No
+258,Employee_258,51.0,Non-Binary,IT,Intern,22,7038.0,PhD,2.0,2022,Yes
+259,Employee_259,,Female,HR,Assistant,7,3760.0,PhD,2.63,2023,Yes
+260,Employee_260,59.0,Non-Binary,HR,Executive,20,6432.0,High School,,2024,No
+261,Employee_261,29.0,Male,Sales,Analyst,1,13960.0,PhD,1.55,2024,Yes
+262,Employee_262,48.0,Non-Binary,HR,Assistant,4,,Bachelors,3.91,2021,No
+263,Employee_263,48.0,Male,IT,Analyst,5,13491.0,High School,4.25,2023,No
+264,Employee_264,55.0,Non-Binary,,Intern,11,10116.0,Bachelors,,2023,No
+265,Employee_265,42.0,Female,Finance,Assistant,17,11051.0,PhD,4.1,2022,No
+266,Employee_266,51.0,Non-Binary,Sales,Manager,29,5366.0,Masters,,2023,Yes
+267,Employee_267,54.0,Non-Binary,IT,Analyst,21,8398.0,Bachelors,3.03,2021,No
+268,Employee_268,49.0,Male,Sales,Intern,21,4511.0,PhD,4.42,2024,Yes
+269,Employee_269,54.0,Female,IT,Manager,0,8751.0,Bachelors,4.0,2024,No
+270,Employee_270,26.0,Non-Binary,Finance,Manager,29,7439.0,PhD,4.22,2021,No
+271,Employee_271,40.0,Female,Sales,Manager,16,6506.0,PhD,1.55,2023,No
+272,Employee_272,25.0,Non-Binary,Marketing,Manager,29,4125.0,PhD,1.28,2023,No
+273,Employee_273,56.0,Non-Binary,IT,Assistant,10,13456.0,Masters,4.57,2021,Yes
+274,Employee_274,38.0,,Marketing,Assistant,9,3390.0,Bachelors,2.55,2022,No
+275,Employee_275,49.0,Non-Binary,Sales,Assistant,18,8578.0,High School,2.15,2024,Yes
+276,Employee_276,51.0,Female,,Intern,13,9536.0,High School,3.9,2021,No
+277,Employee_277,50.0,,Marketing,Intern,25,11423.0,High School,4.35,2021,No
+278,Employee_278,27.0,Male,Sales,Intern,9,6461.0,High School,4.45,2023,No
+279,Employee_279,56.0,Female,Finance,Executive,14,5004.0,PhD,2.26,2024,Yes
+280,Employee_280,58.0,Non-Binary,Marketing,Intern,27,11306.0,Bachelors,4.41,2023,No
+281,Employee_281,45.0,Non-Binary,Marketing,Assistant,18,6306.0,Bachelors,1.16,2021,No
+282,Employee_282,50.0,,Finance,Assistant,3,8600.0,Masters,1.2,2022,No
+283,Employee_283,52.0,Female,Marketing,Executive,1,4219.0,Bachelors,,2024,No
+284,Employee_284,56.0,Non-Binary,Marketing,Executive,8,9186.0,Bachelors,1.25,2021,No
+285,Employee_285,54.0,,Marketing,Intern,9,4087.0,Bachelors,2.3,2021,Yes
+286,Employee_286,42.0,Non-Binary,HR,Analyst,27,,Masters,3.69,2022,Yes
+287,Employee_287,53.0,,Finance,Executive,10,,High School,2.35,2021,No
+288,Employee_288,44.0,Non-Binary,Marketing,Manager,13,3396.0,Bachelors,1.72,2021,No
+289,Employee_289,54.0,Non-Binary,Finance,Assistant,6,8058.0,Masters,2.13,2024,Yes
+290,Employee_290,24.0,Non-Binary,IT,Manager,22,10969.0,Masters,2.83,2024,No
+291,Employee_291,39.0,Non-Binary,IT,Assistant,14,7147.0,PhD,,2024,Yes
+292,Employee_292,46.0,Male,Marketing,Assistant,21,12328.0,Masters,4.13,2023,No
+293,Employee_293,52.0,Male,Finance,Executive,18,12850.0,High School,4.0,2022,No
+294,Employee_294,24.0,,,Executive,21,4932.0,Bachelors,2.83,2024,Yes
+295,Employee_295,45.0,,Finance,Manager,14,6404.0,Masters,4.38,2023,No
+296,Employee_296,53.0,Male,HR,Assistant,29,13954.0,High School,1.46,2023,Yes
+297,Employee_297,43.0,,IT,Manager,27,9337.0,Masters,2.02,2022,Yes
+298,Employee_298,44.0,Male,Finance,Analyst,23,,Masters,4.31,2022,Yes
+299,Employee_299,23.0,Male,Finance,Manager,7,7000.0,Masters,2.51,2021,No
+300,Employee_300,48.0,Female,HR,Intern,10,7954.0,Masters,4.92,2023,Yes
+301,Employee_301,,Female,HR,Manager,28,11924.0,Masters,2.87,2024,Yes
+302,Employee_302,,Female,Finance,Intern,8,6617.0,High School,,2022,No
+303,Employee_303,38.0,Non-Binary,Sales,Intern,14,11369.0,Bachelors,,2023,No
+304,Employee_304,54.0,,Finance,Intern,0,13350.0,Bachelors,2.7,2024,No
+305,Employee_305,30.0,Female,Finance,Analyst,29,4528.0,Bachelors,2.53,2023,No
+306,Employee_306,50.0,Female,HR,Manager,0,9345.0,Bachelors,3.88,2022,No
+307,Employee_307,47.0,Female,HR,Manager,18,6258.0,High School,3.19,2021,No
+308,Employee_308,56.0,Non-Binary,Finance,Analyst,2,8404.0,PhD,4.78,2023,Yes
+309,Employee_309,46.0,Non-Binary,Finance,Assistant,9,7124.0,PhD,2.0,2024,No
+310,Employee_310,45.0,Male,Finance,Executive,7,12729.0,High School,1.4,2022,Yes
+311,Employee_311,34.0,Male,HR,Manager,14,13341.0,High School,2.57,2021,No
+312,Employee_312,28.0,Female,Finance,Executive,9,11348.0,Masters,3.47,2024,Yes
+313,Employee_313,57.0,,Finance,Analyst,0,2665.0,Masters,4.44,2024,Yes
+314,Employee_314,41.0,Non-Binary,Marketing,Assistant,28,,Masters,2.38,2024,No
+315,Employee_315,22.0,,Sales,Assistant,17,3089.0,Bachelors,,2023,No
+316,Employee_316,,Female,IT,Assistant,1,7024.0,Masters,2.4,2022,Yes
+317,Employee_317,37.0,Male,Sales,Analyst,18,5321.0,PhD,3.47,2024,No
+318,Employee_318,,Female,Marketing,Intern,12,14950.0,Bachelors,4.54,2023,No
+319,Employee_319,33.0,Male,IT,Intern,21,9009.0,Masters,1.93,2022,Yes
+320,Employee_320,44.0,Male,Finance,Executive,0,10193.0,Bachelors,2.62,2022,Yes
+321,Employee_321,36.0,Female,Marketing,Intern,1,11954.0,PhD,4.97,2023,Yes
+322,Employee_322,49.0,,Finance,Intern,28,2571.0,Masters,4.47,2023,No
+323,Employee_323,55.0,,HR,Assistant,15,14208.0,PhD,3.26,2024,No
+324,Employee_324,23.0,Non-Binary,Marketing,Assistant,14,6080.0,PhD,3.07,2022,No
+325,Employee_325,53.0,Male,HR,Executive,12,10462.0,PhD,2.14,2021,No
+326,Employee_326,44.0,Female,Marketing,Manager,15,2768.0,Masters,,2023,Yes
+327,Employee_327,43.0,Female,Marketing,Executive,16,12468.0,High School,4.39,2022,No
+328,Employee_328,46.0,,HR,Executive,20,4962.0,Masters,3.74,2022,Yes
+329,Employee_329,43.0,Non-Binary,IT,Analyst,28,,PhD,2.16,2024,No
+330,Employee_330,43.0,Non-Binary,Sales,Analyst,28,3515.0,Masters,1.81,2021,No
+331,Employee_331,27.0,Male,Finance,Executive,6,13414.0,PhD,2.06,2024,Yes
+332,Employee_332,36.0,Male,Marketing,Executive,23,11775.0,High School,1.68,2021,No
+333,Employee_333,58.0,Female,Finance,Executive,25,14793.0,Bachelors,1.38,2021,No
+334,Employee_334,54.0,,HR,Intern,16,10484.0,High School,2.68,2023,Yes
+335,Employee_335,29.0,Non-Binary,Finance,Analyst,6,2906.0,High School,1.45,2022,No
+336,Employee_336,26.0,Male,HR,Executive,12,9884.0,Bachelors,1.69,2022,Yes
+337,Employee_337,25.0,,Finance,Assistant,4,8549.0,Masters,3.19,2022,Yes
+338,Employee_338,27.0,Female,Sales,Assistant,25,8669.0,Bachelors,1.66,2021,Yes
+339,Employee_339,53.0,Female,Sales,Intern,16,10482.0,Masters,1.26,2022,Yes
+340,Employee_340,,Female,Sales,Intern,2,13768.0,Masters,2.27,2023,No
+341,Employee_341,,Female,Sales,Manager,6,,PhD,1.88,2021,No
+342,Employee_342,,Male,Sales,Manager,25,14295.0,PhD,3.06,2021,No
+343,Employee_343,34.0,Male,Sales,Manager,16,6985.0,Bachelors,1.41,2021,Yes
+344,Employee_344,51.0,Male,HR,Intern,6,11401.0,High School,4.01,2021,No
+345,Employee_345,40.0,Male,,Intern,20,5118.0,Bachelors,4.62,2023,No
+346,Employee_346,38.0,Female,Finance,Intern,0,8789.0,Masters,3.97,2022,No
+347,Employee_347,40.0,Non-Binary,Sales,Assistant,16,12103.0,PhD,3.13,2023,No
+348,Employee_348,49.0,Male,HR,Intern,29,,Bachelors,4.44,2022,Yes
+349,Employee_349,47.0,Non-Binary,HR,Assistant,16,,Bachelors,3.78,2023,Yes
+350,Employee_350,58.0,Male,HR,Manager,10,7121.0,PhD,1.04,2024,No
+351,Employee_351,47.0,Male,Marketing,Manager,24,12177.0,PhD,2.58,2024,Yes
+352,Employee_352,44.0,Non-Binary,Finance,Manager,26,13642.0,PhD,,2024,No
+353,Employee_353,30.0,Female,Marketing,Executive,28,13626.0,Masters,2.38,2024,No
+354,Employee_354,33.0,Male,,Executive,2,10066.0,PhD,1.14,2021,No
+355,Employee_355,22.0,Male,HR,Analyst,14,14806.0,High School,3.98,2021,Yes
+356,Employee_356,22.0,,IT,Analyst,28,7170.0,Bachelors,4.21,2023,No
+357,Employee_357,55.0,Non-Binary,Sales,Analyst,20,,PhD,1.64,2023,Yes
+358,Employee_358,53.0,Female,,Executive,10,3503.0,PhD,,2024,Yes
+359,Employee_359,46.0,Non-Binary,Marketing,Executive,25,,Masters,1.77,2022,No
+360,Employee_360,22.0,Non-Binary,Finance,Analyst,27,10004.0,Masters,,2024,Yes
+361,Employee_361,37.0,Female,,Analyst,15,4966.0,Bachelors,2.09,2023,Yes
+362,Employee_362,26.0,Non-Binary,,Intern,24,12630.0,High School,2.26,2024,No
+363,Employee_363,43.0,Female,Marketing,Analyst,21,4439.0,Bachelors,,2023,Yes
+364,Employee_364,50.0,Male,Sales,Intern,27,4135.0,PhD,2.91,2024,Yes
+365,Employee_365,24.0,Female,Finance,Assistant,8,12390.0,High School,3.68,2022,No
+366,Employee_366,33.0,Male,Finance,Executive,23,10595.0,High School,2.61,2024,No
+367,Employee_367,47.0,Non-Binary,Sales,Analyst,23,8765.0,High School,,2022,Yes
+368,Employee_368,37.0,Non-Binary,IT,Executive,0,12783.0,High School,3.5,2022,No
+369,Employee_369,58.0,,Sales,Executive,28,4395.0,Bachelors,1.62,2023,No
+370,Employee_370,43.0,Non-Binary,Finance,Executive,24,9024.0,Masters,2.49,2022,Yes
+371,Employee_371,50.0,Female,IT,Assistant,21,14932.0,Masters,1.84,2021,Yes
+372,Employee_372,35.0,Male,IT,Manager,15,14090.0,PhD,3.78,2021,No
+373,Employee_373,49.0,Non-Binary,Sales,Analyst,8,3573.0,Masters,4.78,2021,Yes
+374,Employee_374,26.0,Male,Finance,Manager,18,7684.0,Masters,4.98,2023,No
+375,Employee_375,51.0,Female,Marketing,Manager,11,4902.0,Masters,2.8,2021,No
+376,Employee_376,26.0,Female,Finance,Manager,18,7395.0,Masters,2.01,2023,Yes
+377,Employee_377,33.0,Non-Binary,HR,Executive,21,9831.0,PhD,,2023,Yes
+378,Employee_378,37.0,Female,Marketing,Intern,8,13904.0,Bachelors,4.39,2021,No
+379,Employee_379,47.0,Male,IT,Executive,6,14729.0,High School,1.82,2022,No
+380,Employee_380,47.0,Female,,Executive,13,11843.0,Masters,4.81,2024,No
+381,Employee_381,42.0,Male,IT,Manager,28,13137.0,Bachelors,2.37,2023,No
+382,Employee_382,57.0,Male,IT,Executive,18,4456.0,Masters,4.94,2021,Yes
+383,Employee_383,,Female,Marketing,Manager,18,9523.0,Masters,4.35,2023,No
+384,Employee_384,51.0,Non-Binary,,Intern,1,6407.0,High School,,2022,Yes
+385,Employee_385,58.0,Female,IT,Analyst,8,3307.0,High School,2.27,2022,Yes
+386,Employee_386,44.0,Male,HR,Manager,12,,High School,1.04,2021,No
+387,Employee_387,31.0,Male,Finance,Intern,14,,Masters,2.53,2023,Yes
+388,Employee_388,26.0,Female,Finance,Analyst,2,7024.0,Masters,2.21,2024,Yes
+389,Employee_389,57.0,Non-Binary,HR,Assistant,10,11999.0,Masters,1.15,2024,No
+390,Employee_390,55.0,,Marketing,Manager,20,4784.0,High School,3.02,2023,Yes
+391,Employee_391,,Male,Sales,Manager,13,7813.0,PhD,2.61,2023,Yes
+392,Employee_392,31.0,Male,Sales,Assistant,29,3257.0,Bachelors,3.54,2023,No
+393,Employee_393,40.0,Non-Binary,,Assistant,24,14923.0,PhD,3.48,2021,No
+394,Employee_394,53.0,Female,HR,Manager,7,7387.0,Masters,,2022,No
+395,Employee_395,22.0,Male,HR,Assistant,17,6354.0,Masters,4.91,2024,No
+396,Employee_396,26.0,Male,IT,Executive,18,14958.0,PhD,1.75,2021,No
+397,Employee_397,,Non-Binary,Sales,Analyst,15,12898.0,Masters,2.78,2023,No
+398,Employee_398,37.0,Female,Marketing,Analyst,1,6058.0,Bachelors,2.95,2023,No
+399,Employee_399,45.0,,Marketing,Analyst,7,12272.0,Masters,4.25,2022,Yes
+400,Employee_400,37.0,Female,Sales,Executive,21,3461.0,Bachelors,1.4,2023,Yes
+401,Employee_401,23.0,Female,Sales,Assistant,5,6347.0,PhD,,2021,No
+402,Employee_402,49.0,Female,Sales,Intern,11,9226.0,PhD,3.51,2021,Yes
+403,Employee_403,53.0,Male,HR,Assistant,14,6075.0,Masters,1.86,2022,Yes
+404,Employee_404,,Non-Binary,HR,Manager,24,11567.0,Bachelors,3.51,2021,No
+405,Employee_405,41.0,Non-Binary,,Analyst,7,4918.0,Masters,4.69,2024,Yes
+406,Employee_406,45.0,Female,Finance,Assistant,3,6698.0,High School,4.99,2021,No
+407,Employee_407,33.0,Male,Marketing,Intern,14,3501.0,High School,1.13,2021,Yes
+408,Employee_408,56.0,Male,Marketing,Manager,27,7744.0,High School,1.94,2021,No
+409,Employee_409,54.0,,IT,Executive,19,14076.0,High School,2.24,2024,Yes
+410,Employee_410,54.0,Male,HR,Executive,24,9619.0,Masters,2.6,2023,Yes
+411,Employee_411,58.0,Male,Finance,Intern,16,6566.0,High School,1.97,2021,Yes
+412,Employee_412,33.0,Female,Finance,Manager,12,5345.0,Bachelors,1.81,2022,No
+413,Employee_413,24.0,Male,Marketing,Analyst,17,12173.0,PhD,4.82,2024,Yes
+414,Employee_414,22.0,,,Assistant,1,13993.0,PhD,4.67,2022,Yes
+415,Employee_415,54.0,Non-Binary,IT,Manager,12,11349.0,High School,1.19,2021,No
+416,Employee_416,31.0,Male,HR,Executive,12,7816.0,High School,2.36,2022,No
+417,Employee_417,50.0,Non-Binary,Sales,Intern,21,13472.0,High School,2.62,2021,Yes
+418,Employee_418,34.0,,HR,Intern,14,2922.0,Masters,1.96,2024,Yes
+419,Employee_419,33.0,Male,Sales,Assistant,19,,PhD,3.52,2022,Yes
+420,Employee_420,52.0,Male,Sales,Intern,28,,High School,3.56,2022,Yes
+421,Employee_421,23.0,Non-Binary,IT,Intern,26,6766.0,Bachelors,4.4,2021,No
+422,Employee_422,56.0,Male,,Manager,9,10049.0,High School,3.96,2021,Yes
+423,Employee_423,44.0,Female,HR,Analyst,28,8816.0,PhD,3.17,2023,Yes
+424,Employee_424,38.0,,Sales,Assistant,2,5210.0,High School,,2021,No
+425,Employee_425,47.0,Male,HR,Manager,18,11144.0,PhD,2.1,2021,Yes
+426,Employee_426,29.0,Non-Binary,Marketing,Analyst,2,13089.0,High School,3.37,2023,Yes
+427,Employee_427,50.0,Male,Marketing,Manager,21,10569.0,Bachelors,,2021,Yes
+428,Employee_428,47.0,Male,Finance,Manager,13,,High School,1.53,2021,No
+429,Employee_429,31.0,Non-Binary,,Intern,7,4157.0,Bachelors,1.97,2023,No
+430,Employee_430,47.0,Non-Binary,IT,Analyst,26,5041.0,Bachelors,2.17,2024,Yes
+431,Employee_431,55.0,Female,Sales,Assistant,22,9263.0,High School,4.7,2024,Yes
+432,Employee_432,28.0,Non-Binary,Finance,Assistant,29,5575.0,Bachelors,1.92,2021,No
+433,Employee_433,25.0,Female,IT,Analyst,3,5664.0,Masters,,2021,Yes
+434,Employee_434,32.0,Non-Binary,,Intern,26,13658.0,High School,2.48,2023,Yes
+435,Employee_435,50.0,Male,Sales,Executive,27,4553.0,High School,3.65,2023,No
+436,Employee_436,57.0,Female,Marketing,Manager,19,10979.0,Bachelors,,2024,No
+437,Employee_437,46.0,Female,Sales,Intern,10,8237.0,Bachelors,,2022,No
+438,Employee_438,42.0,Female,HR,Analyst,25,5717.0,High School,4.46,2021,Yes
+439,Employee_439,57.0,Male,Finance,Manager,10,14546.0,Masters,3.31,2022,Yes
+440,Employee_440,31.0,Male,Finance,Assistant,26,3947.0,Bachelors,3.7,2022,Yes
+441,Employee_441,58.0,Male,Finance,Executive,29,,Bachelors,1.07,2023,Yes
+442,Employee_442,30.0,Male,Marketing,Assistant,10,3107.0,PhD,2.36,2021,No
+443,Employee_443,45.0,Male,IT,Analyst,1,7052.0,Masters,4.18,2021,Yes
+444,Employee_444,56.0,Female,IT,Manager,29,4264.0,Masters,1.31,2023,Yes
+445,Employee_445,56.0,Male,,Analyst,16,11917.0,High School,2.13,2022,No
+446,Employee_446,57.0,,Marketing,Manager,8,11927.0,Masters,3.34,2023,No
+447,Employee_447,39.0,,Finance,Intern,27,11721.0,High School,2.03,2024,Yes
+448,Employee_448,53.0,Non-Binary,Finance,Executive,27,5171.0,PhD,4.74,2021,No
+449,Employee_449,45.0,Female,HR,Intern,1,9019.0,Masters,,2024,No
+450,Employee_450,44.0,Non-Binary,HR,Intern,28,6462.0,Bachelors,4.19,2023,Yes
+451,Employee_451,53.0,,Finance,Analyst,23,,PhD,3.03,2021,Yes
+452,Employee_452,58.0,Non-Binary,Finance,Executive,14,6222.0,High School,4.0,2024,Yes
+453,Employee_453,,Male,Marketing,Manager,15,,PhD,2.24,2024,Yes
+454,Employee_454,,Male,IT,Manager,24,9763.0,High School,3.06,2022,No
+455,Employee_455,44.0,Male,HR,Assistant,3,7554.0,PhD,4.43,2021,No
+456,Employee_456,46.0,Female,IT,Manager,7,12167.0,High School,2.87,2024,Yes
+457,Employee_457,56.0,Non-Binary,Marketing,Analyst,8,13588.0,Masters,2.44,2024,Yes
+458,Employee_458,51.0,Male,Finance,Intern,25,3308.0,Bachelors,3.14,2022,No
+459,Employee_459,,Non-Binary,IT,Intern,25,11670.0,High School,3.87,2024,Yes
+460,Employee_460,41.0,Non-Binary,Finance,Intern,4,13155.0,PhD,2.77,2024,Yes
+461,Employee_461,,Male,Finance,Executive,15,3225.0,High School,4.76,2024,Yes
+462,Employee_462,43.0,Male,Sales,Manager,12,13193.0,High School,2.18,2022,Yes
+463,Employee_463,34.0,Non-Binary,IT,Analyst,29,14054.0,High School,,2024,No
+464,Employee_464,40.0,Male,IT,Executive,6,10201.0,PhD,4.03,2024,Yes
+465,Employee_465,57.0,Male,Finance,Assistant,25,3716.0,Bachelors,3.76,2021,No
+466,Employee_466,33.0,Male,Marketing,Analyst,19,6551.0,Masters,,2021,Yes
+467,Employee_467,40.0,Female,,Analyst,16,4697.0,Bachelors,4.99,2022,Yes
+468,Employee_468,,Non-Binary,Finance,Analyst,2,,High School,2.71,2023,No
+469,Employee_469,30.0,Non-Binary,HR,Intern,4,11470.0,PhD,1.44,2021,Yes
+470,Employee_470,28.0,Female,HR,Analyst,18,3472.0,Bachelors,1.12,2022,No
+471,Employee_471,49.0,Non-Binary,Sales,Manager,11,13502.0,High School,,2024,Yes
+472,Employee_472,35.0,Male,Marketing,Analyst,28,8134.0,Masters,4.5,2024,Yes
+473,Employee_473,52.0,Non-Binary,Finance,Intern,26,9983.0,Masters,1.88,2022,Yes
+474,Employee_474,40.0,Male,IT,Analyst,6,,Masters,1.63,2024,Yes
+475,Employee_475,37.0,Female,Sales,Assistant,27,11290.0,High School,1.25,2024,Yes
+476,Employee_476,26.0,Male,Marketing,Assistant,8,14033.0,PhD,4.29,2023,No
+477,Employee_477,56.0,Non-Binary,IT,Intern,27,2724.0,Bachelors,2.25,2024,No
+478,Employee_478,33.0,Non-Binary,HR,Manager,5,11532.0,Masters,2.61,2021,Yes
+479,Employee_479,46.0,Non-Binary,HR,Manager,28,4314.0,High School,3.01,2024,Yes
+480,Employee_480,,Female,IT,Executive,25,3606.0,High School,4.36,2022,No
+481,Employee_481,57.0,Female,Sales,Intern,16,2624.0,Bachelors,3.6,2023,No
+482,Employee_482,44.0,Non-Binary,HR,Analyst,15,5746.0,Masters,3.46,2024,Yes
+483,Employee_483,37.0,Male,,Intern,22,5431.0,High School,1.7,2022,Yes
+484,Employee_484,,,IT,Executive,2,14817.0,Bachelors,3.05,2021,No
+485,Employee_485,52.0,Non-Binary,IT,Intern,20,5471.0,PhD,3.86,2024,Yes
+486,Employee_486,26.0,Non-Binary,,Intern,25,4517.0,PhD,4.89,2023,No
+487,Employee_487,56.0,Female,Sales,Executive,3,9915.0,PhD,1.81,2024,Yes
+488,Employee_488,44.0,Female,Finance,Manager,9,4915.0,Masters,1.04,2022,No
+489,Employee_489,50.0,Female,Sales,Analyst,4,5596.0,Bachelors,1.3,2023,No
+490,Employee_490,32.0,Male,Marketing,Executive,20,4109.0,Bachelors,2.5,2024,Yes
+491,Employee_491,,Male,Marketing,Assistant,21,3217.0,High School,4.28,2021,No
+492,Employee_492,33.0,Non-Binary,HR,Manager,29,6061.0,High School,1.03,2023,Yes
+493,Employee_493,30.0,Female,,Assistant,9,11708.0,High School,2.83,2021,Yes
+494,Employee_494,31.0,Male,HR,Manager,11,14257.0,Bachelors,2.32,2022,Yes
+495,Employee_495,38.0,Female,Marketing,Analyst,9,9282.0,High School,1.21,2024,Yes
+496,Employee_496,59.0,Non-Binary,,Analyst,28,12652.0,Bachelors,2.8,2021,No
+497,Employee_497,28.0,Male,Sales,Intern,12,3548.0,Bachelors,2.02,2022,Yes
+498,Employee_498,34.0,Male,HR,Assistant,10,12049.0,PhD,2.41,2024,Yes
+499,Employee_499,30.0,Male,Finance,Manager,21,,High School,3.82,2022,Yes
+500,Employee_500,48.0,Non-Binary,Sales,Analyst,15,10807.0,PhD,3.09,2021,Yes
+501,Employee_501,,Female,,Executive,7,12787.0,Masters,1.5,2022,No
+502,Employee_502,26.0,Male,IT,Analyst,7,10405.0,Masters,4.85,2023,Yes
+503,Employee_503,50.0,Non-Binary,IT,Executive,26,12493.0,Masters,3.54,2024,No
+504,Employee_504,58.0,,IT,Manager,24,12838.0,Bachelors,4.06,2022,No
+505,Employee_505,59.0,Non-Binary,Finance,Analyst,7,8078.0,Bachelors,1.32,2021,No
+506,Employee_506,40.0,Female,HR,Analyst,12,4120.0,Bachelors,,2024,Yes
+507,Employee_507,,Non-Binary,,Manager,26,9048.0,High School,1.08,2023,Yes
+508,Employee_508,22.0,Female,Finance,Analyst,1,9881.0,PhD,1.76,2024,Yes
+509,Employee_509,43.0,,Marketing,Executive,29,7280.0,Bachelors,2.66,2023,Yes
+510,Employee_510,38.0,Female,,Analyst,29,13642.0,PhD,4.74,2024,No
+511,Employee_511,28.0,Non-Binary,HR,Assistant,11,6292.0,PhD,2.83,2022,No
+512,Employee_512,,Non-Binary,IT,Intern,9,5441.0,PhD,2.16,2022,Yes
+513,Employee_513,25.0,Female,HR,Executive,11,,High School,3.25,2021,Yes
+514,Employee_514,,Male,Finance,Assistant,10,8901.0,High School,1.45,2023,Yes
+515,Employee_515,,Male,Finance,Manager,14,,Masters,3.44,2021,Yes
+516,Employee_516,52.0,Female,Finance,Executive,15,8697.0,Masters,3.27,2022,Yes
+517,Employee_517,,Female,,Intern,16,13758.0,PhD,4.17,2023,Yes
+518,Employee_518,48.0,Non-Binary,Marketing,Intern,25,7950.0,Masters,4.95,2021,Yes
+519,Employee_519,31.0,Male,,Manager,1,11475.0,PhD,2.0,2021,No
+520,Employee_520,47.0,,Sales,Manager,17,10932.0,High School,3.04,2021,No
+521,Employee_521,40.0,Male,Finance,Executive,11,8374.0,High School,4.64,2021,No
+522,Employee_522,24.0,Female,Marketing,Analyst,18,4053.0,High School,4.14,2021,No
+523,Employee_523,,Female,Sales,Manager,25,3512.0,Bachelors,2.95,2023,Yes
+524,Employee_524,49.0,Male,Marketing,Analyst,22,10878.0,PhD,4.78,2021,Yes
+525,Employee_525,41.0,,Finance,Assistant,17,4381.0,High School,1.23,2023,Yes
+526,Employee_526,49.0,Female,,Intern,29,9299.0,PhD,4.72,2021,Yes
+527,Employee_527,29.0,Non-Binary,Finance,Analyst,16,7086.0,Masters,1.2,2022,Yes
+528,Employee_528,,Female,HR,Intern,29,,Masters,,2022,No
+529,Employee_529,24.0,Female,Marketing,Analyst,5,10930.0,High School,4.56,2021,Yes
+530,Employee_530,34.0,Female,Marketing,Assistant,24,8947.0,PhD,2.05,2024,No
+531,Employee_531,49.0,Non-Binary,HR,Manager,14,4845.0,High School,2.89,2022,Yes
+532,Employee_532,46.0,Male,HR,Assistant,2,2575.0,Masters,2.3,2023,No
+533,Employee_533,,Non-Binary,IT,Manager,5,12048.0,High School,4.81,2021,Yes
+534,Employee_534,59.0,Non-Binary,Marketing,Manager,2,8377.0,PhD,4.29,2023,No
+535,Employee_535,27.0,,Marketing,Intern,29,,Masters,3.84,2024,Yes
+536,Employee_536,53.0,,IT,Assistant,28,7422.0,Bachelors,3.35,2021,Yes
+537,Employee_537,42.0,,Sales,Analyst,0,10590.0,Masters,,2022,Yes
+538,Employee_538,37.0,Non-Binary,IT,Assistant,29,4830.0,Bachelors,2.57,2023,Yes
+539,Employee_539,42.0,Male,,Intern,12,7186.0,High School,2.79,2022,No
+540,Employee_540,32.0,Female,Marketing,Manager,27,4402.0,High School,3.92,2022,Yes
+541,Employee_541,58.0,Non-Binary,HR,Intern,20,14705.0,PhD,2.43,2021,No
+542,Employee_542,57.0,Non-Binary,Finance,Executive,25,7170.0,Bachelors,1.26,2023,Yes
+543,Employee_543,56.0,Non-Binary,Marketing,Executive,13,,High School,1.3,2024,No
+544,Employee_544,40.0,Non-Binary,IT,Analyst,12,4559.0,Bachelors,1.46,2022,Yes
+545,Employee_545,41.0,Female,Finance,Intern,26,,High School,4.48,2021,Yes
+546,Employee_546,39.0,Non-Binary,Marketing,Analyst,3,4289.0,Masters,2.89,2021,No
+547,Employee_547,35.0,,Sales,Analyst,6,14318.0,High School,3.85,2024,Yes
+548,Employee_548,36.0,Female,Sales,Executive,21,2516.0,PhD,2.57,2021,Yes
+549,Employee_549,52.0,Female,HR,Analyst,9,2964.0,Masters,2.03,2022,No
+550,Employee_550,22.0,Female,Marketing,Executive,6,6971.0,PhD,2.39,2021,Yes
+551,Employee_551,24.0,Male,Sales,Manager,20,4327.0,Masters,4.18,2023,No
+552,Employee_552,37.0,Male,IT,Intern,14,13720.0,Bachelors,3.5,2023,Yes
+553,Employee_553,44.0,Non-Binary,Marketing,Analyst,14,11211.0,PhD,4.75,2022,No
+554,Employee_554,32.0,,IT,Executive,3,,High School,3.72,2023,No
+555,Employee_555,33.0,,IT,Assistant,22,2589.0,Bachelors,3.28,2024,No
+556,Employee_556,,Non-Binary,Sales,Analyst,22,7315.0,High School,3.44,2021,No
+557,Employee_557,53.0,Non-Binary,Marketing,Manager,5,5351.0,Masters,4.77,2022,Yes
+558,Employee_558,37.0,Non-Binary,Finance,Manager,23,5343.0,Masters,4.15,2024,Yes
+559,Employee_559,,Male,Sales,Assistant,19,12576.0,High School,1.1,2021,No
+560,Employee_560,59.0,Male,,Executive,25,14863.0,High School,,2024,Yes
+561,Employee_561,33.0,Non-Binary,Marketing,Analyst,4,11617.0,Bachelors,3.75,2022,Yes
+562,Employee_562,45.0,Female,Marketing,Executive,19,14426.0,High School,3.99,2022,Yes
+563,Employee_563,49.0,Non-Binary,IT,Manager,11,9043.0,PhD,1.85,2024,No
+564,Employee_564,29.0,Female,Marketing,Executive,0,8401.0,PhD,4.47,2021,Yes
+565,Employee_565,49.0,Female,IT,Manager,27,,High School,4.82,2023,Yes
+566,Employee_566,,Non-Binary,Sales,Executive,7,3594.0,PhD,1.95,2023,No
+567,Employee_567,47.0,,HR,Assistant,0,8624.0,High School,4.53,2024,Yes
+568,Employee_568,29.0,Non-Binary,Finance,Intern,4,9847.0,Bachelors,,2022,No
+569,Employee_569,49.0,Male,Sales,Assistant,21,5695.0,PhD,1.22,2021,No
+570,Employee_570,49.0,Female,Marketing,Assistant,5,3904.0,PhD,1.52,2021,No
+571,Employee_571,,Male,Finance,Intern,28,14056.0,High School,1.23,2022,Yes
+572,Employee_572,,Male,HR,Intern,20,9440.0,PhD,4.38,2023,Yes
+573,Employee_573,,Non-Binary,HR,Analyst,2,6790.0,Masters,1.24,2021,No
+574,Employee_574,38.0,Male,IT,Analyst,14,6482.0,Bachelors,2.09,2024,No
+575,Employee_575,30.0,,Finance,Assistant,4,14705.0,Bachelors,1.42,2023,No
+576,Employee_576,54.0,Female,,Assistant,27,8055.0,PhD,,2024,No
+577,Employee_577,,Non-Binary,Sales,Manager,23,10454.0,PhD,1.36,2023,No
+578,Employee_578,34.0,Male,Finance,Manager,13,7213.0,Masters,3.67,2022,No
+579,Employee_579,49.0,Male,,Analyst,17,5592.0,Masters,1.53,2024,Yes
+580,Employee_580,50.0,Non-Binary,IT,Analyst,15,6659.0,PhD,,2024,No
+581,Employee_581,34.0,Non-Binary,Finance,Manager,5,8808.0,PhD,4.27,2022,No
+582,Employee_582,56.0,Male,,Manager,24,12766.0,Masters,1.05,2024,No
+583,Employee_583,27.0,Female,Finance,Executive,23,9978.0,High School,4.58,2023,Yes
+584,Employee_584,39.0,Female,IT,Executive,13,10976.0,Masters,1.12,2021,Yes
+585,Employee_585,26.0,Non-Binary,,Manager,26,7433.0,High School,1.96,2021,Yes
+586,Employee_586,46.0,Female,IT,Executive,23,7426.0,Bachelors,1.13,2022,Yes
+587,Employee_587,23.0,Male,HR,Intern,7,11879.0,Bachelors,2.34,2023,No
+588,Employee_588,31.0,Non-Binary,IT,Analyst,28,6469.0,Masters,3.06,2024,Yes
+589,Employee_589,51.0,Male,Finance,Analyst,6,,High School,4.19,2024,No
+590,Employee_590,26.0,Male,Finance,Manager,7,6819.0,Masters,2.35,2021,No
+591,Employee_591,54.0,Female,,Assistant,12,11475.0,Masters,3.82,2024,No
+592,Employee_592,22.0,Non-Binary,Marketing,Manager,5,9608.0,High School,1.75,2021,No
+593,Employee_593,39.0,Non-Binary,Sales,Executive,17,11641.0,Masters,4.0,2022,No
+594,Employee_594,,Female,Finance,Assistant,1,6439.0,Bachelors,1.94,2024,No
+595,Employee_595,32.0,Male,HR,Executive,7,2544.0,PhD,1.57,2023,Yes
+596,Employee_596,42.0,Male,Finance,Intern,10,4310.0,PhD,1.74,2024,Yes
+597,Employee_597,47.0,Male,Marketing,Executive,0,7066.0,Masters,1.73,2021,Yes
+598,Employee_598,,Male,HR,Intern,21,12773.0,High School,3.05,2022,Yes
+599,Employee_599,43.0,Non-Binary,Marketing,Intern,28,14190.0,High School,4.38,2021,Yes
+600,Employee_600,48.0,Non-Binary,HR,Executive,5,11521.0,Bachelors,1.32,2024,No
+601,Employee_601,34.0,Female,IT,Executive,15,4409.0,High School,3.83,2021,Yes
+602,Employee_602,54.0,Female,Sales,Intern,26,8864.0,High School,3.62,2021,Yes
+603,Employee_603,55.0,Non-Binary,Sales,Assistant,19,5081.0,Bachelors,4.49,2022,Yes
+604,Employee_604,56.0,Non-Binary,Marketing,Intern,11,3191.0,Masters,1.98,2023,No
+605,Employee_605,22.0,Male,Sales,Analyst,10,14711.0,PhD,2.8,2024,No
+606,Employee_606,42.0,Male,Marketing,Intern,28,3431.0,Bachelors,4.7,2022,No
+607,Employee_607,,Female,Marketing,Assistant,26,10410.0,Masters,3.64,2023,Yes
+608,Employee_608,49.0,Non-Binary,Marketing,Analyst,28,8882.0,Bachelors,2.56,2021,Yes
+609,Employee_609,38.0,Female,Sales,Manager,9,5906.0,Masters,1.53,2023,Yes
+610,Employee_610,26.0,Non-Binary,Marketing,Manager,2,10839.0,Bachelors,,2021,Yes
+611,Employee_611,52.0,Male,Sales,Assistant,12,3532.0,Masters,3.32,2021,Yes
+612,Employee_612,26.0,Female,Marketing,Intern,26,3811.0,Bachelors,3.87,2022,No
+613,Employee_613,59.0,Female,Finance,Executive,2,11079.0,Masters,1.5,2021,Yes
+614,Employee_614,24.0,Non-Binary,Marketing,Assistant,14,5621.0,Bachelors,3.4,2022,No
+615,Employee_615,44.0,Male,HR,Analyst,15,4373.0,PhD,3.2,2023,Yes
+616,Employee_616,58.0,,Marketing,Analyst,28,14280.0,PhD,3.06,2023,No
+617,Employee_617,58.0,Male,IT,Manager,12,11607.0,High School,3.76,2021,No
+618,Employee_618,31.0,Female,Marketing,Analyst,16,12570.0,Masters,4.35,2022,No
+619,Employee_619,31.0,,HR,Assistant,2,9281.0,Bachelors,2.29,2021,No
+620,Employee_620,40.0,Non-Binary,HR,Analyst,19,6248.0,Masters,4.56,2022,Yes
+621,Employee_621,38.0,Female,Sales,Assistant,10,2777.0,PhD,1.64,2022,Yes
+622,Employee_622,42.0,Female,Finance,Executive,26,,Masters,1.69,2022,Yes
+623,Employee_623,35.0,Male,Marketing,Manager,20,4359.0,Bachelors,2.07,2023,No
+624,Employee_624,30.0,Male,,Analyst,18,13728.0,Masters,1.48,2022,Yes
+625,Employee_625,22.0,,Finance,Assistant,21,14063.0,Bachelors,1.92,2023,Yes
+626,Employee_626,34.0,Non-Binary,Marketing,Intern,10,8429.0,PhD,1.43,2022,Yes
+627,Employee_627,25.0,Male,IT,Manager,29,9292.0,PhD,,2023,Yes
+628,Employee_628,22.0,Male,Marketing,Executive,27,7213.0,PhD,1.56,2024,No
+629,Employee_629,53.0,Male,,Assistant,15,12874.0,High School,,2023,No
+630,Employee_630,,Female,HR,Executive,20,,PhD,1.19,2023,Yes
+631,Employee_631,,Female,IT,Executive,2,3670.0,Masters,4.79,2021,Yes
+632,Employee_632,52.0,Female,Sales,Analyst,21,11181.0,High School,,2022,Yes
+633,Employee_633,29.0,Female,Finance,Analyst,5,13217.0,PhD,1.03,2024,No
+634,Employee_634,47.0,Non-Binary,Marketing,Assistant,13,11874.0,Masters,4.06,2021,No
+635,Employee_635,55.0,,HR,Intern,23,14950.0,Masters,,2022,No
+636,Employee_636,24.0,Female,Sales,Assistant,17,13180.0,Masters,4.12,2024,Yes
+637,Employee_637,33.0,Non-Binary,IT,Intern,16,12568.0,Bachelors,3.09,2024,No
+638,Employee_638,22.0,Male,HR,Executive,3,7808.0,High School,3.56,2024,No
+639,Employee_639,26.0,Male,IT,Manager,22,4962.0,Masters,4.15,2022,No
+640,Employee_640,51.0,Male,Marketing,Assistant,14,12322.0,Bachelors,2.62,2024,No
+641,Employee_641,,Female,Finance,Assistant,10,2787.0,PhD,1.01,2024,No
+642,Employee_642,38.0,Male,HR,Intern,25,8453.0,Masters,4.4,2021,Yes
+643,Employee_643,44.0,Non-Binary,HR,Executive,2,6782.0,Bachelors,2.52,2023,Yes
+644,Employee_644,,Female,Marketing,Executive,2,4407.0,Masters,2.98,2022,Yes
+645,Employee_645,58.0,Non-Binary,Sales,Intern,15,3661.0,High School,,2023,Yes
+646,Employee_646,42.0,Male,Finance,Executive,4,2629.0,High School,2.97,2021,No
+647,Employee_647,35.0,Male,HR,Analyst,20,8837.0,PhD,4.95,2023,Yes
+648,Employee_648,23.0,Male,Finance,Manager,28,4863.0,Masters,2.11,2024,Yes
+649,Employee_649,32.0,Female,HR,Assistant,9,,Bachelors,2.58,2024,Yes
+650,Employee_650,59.0,Non-Binary,,Manager,18,8483.0,PhD,,2022,No
+651,Employee_651,55.0,Female,IT,Assistant,24,2643.0,Masters,4.26,2022,Yes
+652,Employee_652,59.0,Female,HR,Analyst,3,,PhD,2.67,2022,No
+653,Employee_653,55.0,Male,Finance,Executive,28,9969.0,Bachelors,2.24,2021,No
+654,Employee_654,39.0,Female,Sales,Intern,28,2744.0,PhD,4.75,2022,No
+655,Employee_655,,Female,IT,Analyst,18,3426.0,PhD,,2021,Yes
+656,Employee_656,36.0,Male,IT,Manager,10,5678.0,PhD,1.48,2024,No
+657,Employee_657,48.0,Female,,Intern,1,4676.0,Masters,1.28,2023,Yes
+658,Employee_658,,Male,Finance,Executive,9,,Bachelors,2.93,2024,Yes
+659,Employee_659,59.0,Male,Marketing,Analyst,28,3386.0,High School,1.88,2024,Yes
+660,Employee_660,54.0,Male,Sales,Intern,10,,Masters,2.02,2024,No
+661,Employee_661,,Male,Finance,Analyst,24,12743.0,High School,4.51,2022,No
+662,Employee_662,36.0,Female,Sales,Analyst,19,5898.0,High School,1.36,2022,Yes
+663,Employee_663,51.0,Male,Sales,Executive,15,14642.0,Masters,3.86,2022,No
+664,Employee_664,38.0,Male,HR,Assistant,18,10997.0,Masters,2.08,2023,No
+665,Employee_665,,Female,Finance,Intern,22,,Bachelors,4.04,2022,No
+666,Employee_666,50.0,Female,Marketing,Executive,23,5154.0,Bachelors,,2021,Yes
+667,Employee_667,25.0,Non-Binary,HR,Analyst,10,14484.0,PhD,1.03,2024,No
+668,Employee_668,31.0,Female,Sales,Executive,13,9892.0,High School,3.04,2023,No
+669,Employee_669,38.0,Female,Sales,Assistant,1,14734.0,Bachelors,1.56,2023,Yes
+670,Employee_670,31.0,Non-Binary,Sales,Intern,22,3871.0,PhD,4.46,2023,No
+671,Employee_671,38.0,Female,,Assistant,27,9635.0,Bachelors,4.49,2023,Yes
+672,Employee_672,41.0,Female,Finance,Manager,4,2820.0,Masters,2.67,2023,No
+673,Employee_673,45.0,Female,HR,Intern,26,7154.0,Bachelors,2.78,2021,No
+674,Employee_674,26.0,Female,Marketing,Assistant,4,14751.0,High School,,2024,No
+675,Employee_675,55.0,Non-Binary,HR,Analyst,18,7800.0,Bachelors,3.87,2023,No
+676,Employee_676,,Female,IT,Intern,20,9261.0,High School,2.43,2024,No
+677,Employee_677,23.0,Female,Sales,Intern,11,9354.0,Masters,2.07,2022,No
+678,Employee_678,34.0,Non-Binary,Sales,Executive,17,8005.0,High School,,2023,Yes
+679,Employee_679,32.0,Male,Sales,Analyst,3,,Bachelors,1.37,2023,No
+680,Employee_680,44.0,Non-Binary,HR,Manager,21,13270.0,PhD,3.99,2024,No
+681,Employee_681,37.0,Male,,Assistant,16,9053.0,Masters,1.05,2023,No
+682,Employee_682,52.0,,Sales,Executive,9,6542.0,Bachelors,,2023,Yes
+683,Employee_683,32.0,Non-Binary,HR,Assistant,19,14059.0,Masters,1.73,2023,Yes
+684,Employee_684,37.0,Female,Finance,Manager,5,11509.0,Masters,1.93,2021,Yes
+685,Employee_685,29.0,Male,Finance,Manager,24,9998.0,Bachelors,3.54,2021,No
+686,Employee_686,,Female,HR,Intern,13,9136.0,Bachelors,4.97,2023,No
+687,Employee_687,25.0,,Sales,Manager,10,9862.0,PhD,4.11,2021,Yes
+688,Employee_688,46.0,Non-Binary,HR,Assistant,10,2511.0,Masters,1.9,2022,Yes
+689,Employee_689,24.0,Non-Binary,,Analyst,28,2694.0,Masters,,2023,Yes
+690,Employee_690,53.0,Male,HR,Analyst,17,5037.0,Bachelors,,2022,No
+691,Employee_691,24.0,Female,IT,Intern,26,5342.0,High School,2.78,2024,Yes
+692,Employee_692,48.0,Female,Finance,Assistant,22,4729.0,Bachelors,1.55,2022,No
+693,Employee_693,50.0,Female,Marketing,Assistant,21,,Masters,,2024,No
+694,Employee_694,53.0,Female,Marketing,Manager,17,,Bachelors,4.26,2023,No
+695,Employee_695,40.0,Non-Binary,IT,Assistant,23,4577.0,PhD,4.94,2024,Yes
+696,Employee_696,42.0,Non-Binary,HR,Executive,22,10345.0,High School,4.64,2024,No
+697,Employee_697,26.0,Non-Binary,IT,Manager,10,,Bachelors,4.41,2022,Yes
+698,Employee_698,39.0,,IT,Executive,20,7373.0,PhD,,2022,Yes
+699,Employee_699,49.0,Non-Binary,Sales,Intern,11,,Masters,1.42,2022,Yes
+700,Employee_700,43.0,Female,Finance,Analyst,4,2797.0,Bachelors,3.28,2023,Yes
+701,Employee_701,42.0,Female,Marketing,Intern,22,8356.0,Masters,3.13,2023,No
+702,Employee_702,27.0,Female,HR,Analyst,8,11536.0,PhD,2.83,2022,No
+703,Employee_703,22.0,Female,Marketing,Intern,26,3515.0,Masters,2.59,2023,No
+704,Employee_704,26.0,Non-Binary,Marketing,Assistant,24,3884.0,PhD,2.72,2023,No
+705,Employee_705,33.0,Non-Binary,Finance,Executive,8,,PhD,3.28,2024,Yes
+706,Employee_706,47.0,Non-Binary,,Analyst,21,11245.0,PhD,,2024,Yes
+707,Employee_707,55.0,Male,Marketing,Manager,9,4850.0,Bachelors,2.04,2022,Yes
+708,Employee_708,35.0,Female,IT,Executive,21,3769.0,Masters,3.07,2023,Yes
+709,Employee_709,47.0,Female,Finance,Manager,18,3760.0,Masters,3.89,2024,No
+710,Employee_710,48.0,Non-Binary,Sales,Executive,0,10201.0,High School,1.7,2021,Yes
+711,Employee_711,30.0,Female,HR,Executive,6,,High School,3.19,2023,No
+712,Employee_712,47.0,Female,Marketing,Intern,3,7063.0,High School,3.86,2021,Yes
+713,Employee_713,43.0,,HR,Analyst,0,,High School,,2022,Yes
+714,Employee_714,51.0,,Sales,Analyst,14,13102.0,Masters,1.11,2023,Yes
+715,Employee_715,38.0,,HR,Executive,7,8172.0,PhD,2.8,2022,Yes
+716,Employee_716,47.0,Male,Sales,Assistant,11,12901.0,PhD,,2022,No
+717,Employee_717,57.0,Non-Binary,IT,Assistant,21,8093.0,Bachelors,4.72,2022,No
+718,Employee_718,22.0,Female,Marketing,Manager,21,14364.0,PhD,1.5,2022,No
+719,Employee_719,29.0,Non-Binary,Sales,Manager,17,8655.0,Masters,3.61,2022,No
+720,Employee_720,56.0,Non-Binary,HR,Intern,14,8043.0,Masters,1.21,2023,Yes
+721,Employee_721,36.0,Female,Marketing,Executive,16,9740.0,Masters,2.78,2021,Yes
+722,Employee_722,43.0,Male,,Manager,28,7183.0,Bachelors,3.22,2023,No
+723,Employee_723,35.0,Male,Marketing,Manager,13,4381.0,High School,2.19,2023,No
+724,Employee_724,47.0,Non-Binary,Sales,Executive,13,14988.0,PhD,2.82,2023,Yes
+725,Employee_725,,Male,IT,Intern,17,11213.0,Masters,1.65,2024,Yes
+726,Employee_726,44.0,Non-Binary,HR,Manager,19,12579.0,Masters,2.22,2024,No
+727,Employee_727,,Non-Binary,IT,Intern,17,13244.0,High School,3.48,2023,No
+728,Employee_728,45.0,Female,IT,Analyst,15,6309.0,Masters,2.21,2021,No
+729,Employee_729,23.0,Female,Finance,Intern,0,8307.0,PhD,4.6,2023,Yes
+730,Employee_730,47.0,Female,IT,Assistant,22,7383.0,Bachelors,3.51,2022,No
+731,Employee_731,35.0,Non-Binary,IT,Assistant,26,,Masters,2.75,2024,No
+732,Employee_732,28.0,Female,Marketing,Intern,10,6655.0,PhD,1.16,2024,No
+733,Employee_733,24.0,Male,HR,Assistant,14,7173.0,Masters,3.0,2023,No
+734,Employee_734,44.0,Male,Marketing,Analyst,11,14171.0,High School,4.06,2023,No
+735,Employee_735,39.0,Non-Binary,Marketing,Executive,7,3909.0,Masters,2.06,2021,Yes
+736,Employee_736,,,Sales,Assistant,21,12386.0,Masters,4.23,2021,No
+737,Employee_737,56.0,Female,,Assistant,19,7697.0,Bachelors,2.01,2022,Yes
+738,Employee_738,36.0,Non-Binary,Finance,Intern,29,9952.0,High School,4.29,2023,No
+739,Employee_739,,Non-Binary,Finance,Analyst,5,11218.0,High School,1.34,2023,No
+740,Employee_740,,Male,Sales,Executive,2,13352.0,Bachelors,,2023,No
+741,Employee_741,49.0,Male,HR,Intern,27,4672.0,Masters,3.0,2024,Yes
+742,Employee_742,31.0,Female,HR,Intern,23,2779.0,PhD,2.19,2022,Yes
+743,Employee_743,38.0,Non-Binary,Marketing,Analyst,25,13656.0,High School,2.06,2021,Yes
+744,Employee_744,43.0,,Marketing,Executive,29,6477.0,High School,2.73,2024,No
+745,Employee_745,47.0,Male,,Analyst,12,5169.0,Masters,5.0,2024,No
+746,Employee_746,46.0,Non-Binary,HR,Executive,12,13585.0,Masters,1.88,2024,Yes
+747,Employee_747,38.0,Male,IT,Analyst,1,,High School,1.41,2024,Yes
+748,Employee_748,34.0,Female,Finance,Intern,4,12443.0,Masters,3.34,2022,No
+749,Employee_749,,Male,IT,Intern,16,6481.0,PhD,,2023,Yes
+750,Employee_750,46.0,Non-Binary,IT,Manager,5,7269.0,High School,3.1,2021,No
+751,Employee_751,25.0,Female,HR,Assistant,1,7747.0,PhD,,2021,Yes
+752,Employee_752,31.0,Male,IT,Analyst,3,13053.0,PhD,2.07,2024,Yes
+753,Employee_753,24.0,Male,Sales,Manager,21,6927.0,Masters,4.64,2024,Yes
+754,Employee_754,39.0,Female,Marketing,Assistant,25,8635.0,PhD,2.74,2022,No
+755,Employee_755,57.0,Female,Sales,Analyst,10,8073.0,Masters,1.52,2024,No
+756,Employee_756,43.0,Male,Finance,Executive,7,6631.0,Bachelors,3.97,2021,Yes
+757,Employee_757,55.0,Non-Binary,,Assistant,11,12400.0,Masters,3.57,2021,No
+758,Employee_758,29.0,,,Intern,7,9689.0,PhD,2.26,2023,No
+759,Employee_759,40.0,Female,Finance,Manager,10,13378.0,Bachelors,3.49,2023,No
+760,Employee_760,58.0,Male,Marketing,Assistant,21,,Masters,1.88,2021,No
+761,Employee_761,27.0,Female,,Assistant,19,7035.0,PhD,2.78,2021,Yes
+762,Employee_762,47.0,Female,Sales,Intern,7,5276.0,High School,4.6,2022,No
+763,Employee_763,55.0,Non-Binary,Marketing,Analyst,28,11811.0,High School,,2022,No
+764,Employee_764,27.0,Female,IT,Executive,7,13680.0,Masters,2.55,2021,Yes
+765,Employee_765,58.0,Female,Sales,Intern,25,14951.0,Masters,4.28,2024,No
+766,Employee_766,54.0,Non-Binary,Finance,Executive,29,14935.0,High School,4.88,2023,No
+767,Employee_767,43.0,Female,Finance,Analyst,16,10197.0,PhD,2.82,2021,No
+768,Employee_768,42.0,Non-Binary,Finance,Assistant,19,10886.0,PhD,3.03,2024,Yes
+769,Employee_769,27.0,Non-Binary,Finance,Executive,19,,PhD,3.29,2021,Yes
+770,Employee_770,27.0,Female,HR,Manager,22,11171.0,Masters,4.73,2023,No
+771,Employee_771,25.0,,,Manager,15,10544.0,Bachelors,4.43,2023,No
+772,Employee_772,51.0,Male,Marketing,Intern,13,6718.0,Bachelors,1.68,2022,Yes
+773,Employee_773,,Non-Binary,HR,Analyst,29,12115.0,Bachelors,2.75,2022,Yes
+774,Employee_774,51.0,Male,,Intern,10,7560.0,Bachelors,2.86,2022,Yes
+775,Employee_775,52.0,Female,IT,Intern,6,13400.0,Bachelors,4.16,2022,No
+776,Employee_776,45.0,Male,Finance,Intern,15,13867.0,Masters,3.41,2023,No
+777,Employee_777,30.0,Non-Binary,,Manager,12,8374.0,Masters,3.62,2024,Yes
+778,Employee_778,24.0,Male,IT,Manager,26,8081.0,Bachelors,4.99,2024,No
+779,Employee_779,52.0,Non-Binary,Sales,Intern,14,14506.0,Masters,1.3,2024,No
+780,Employee_780,58.0,Female,Marketing,Manager,23,4514.0,Masters,1.89,2021,No
+781,Employee_781,57.0,Female,Sales,Analyst,15,6289.0,Bachelors,2.63,2022,No
+782,Employee_782,45.0,Non-Binary,,Intern,26,13135.0,PhD,2.39,2022,No
+783,Employee_783,52.0,Female,HR,Manager,20,11603.0,Masters,1.09,2023,No
+784,Employee_784,27.0,Female,HR,Executive,22,,PhD,1.37,2023,No
+785,Employee_785,23.0,Female,Finance,Intern,23,10266.0,Masters,3.72,2021,Yes
+786,Employee_786,41.0,Female,IT,Intern,8,13905.0,Masters,4.52,2021,Yes
+787,Employee_787,,Non-Binary,Finance,Analyst,2,4864.0,Bachelors,3.06,2024,Yes
+788,Employee_788,32.0,Male,Marketing,Assistant,18,6129.0,Masters,3.16,2023,Yes
+789,Employee_789,25.0,Male,Finance,Assistant,19,8419.0,High School,2.02,2022,Yes
+790,Employee_790,36.0,Female,Sales,Analyst,4,8175.0,High School,4.07,2024,Yes
+791,Employee_791,27.0,Male,Marketing,Analyst,9,14164.0,Bachelors,4.01,2022,Yes
+792,Employee_792,51.0,Male,HR,Analyst,16,11372.0,PhD,3.35,2024,Yes
+793,Employee_793,59.0,Female,IT,Assistant,14,9138.0,PhD,1.85,2022,Yes
+794,Employee_794,23.0,Female,Marketing,Analyst,22,7151.0,PhD,1.39,2021,No
+795,Employee_795,36.0,Male,Marketing,Manager,24,,High School,,2024,No
+796,Employee_796,32.0,Non-Binary,Sales,Intern,7,10440.0,PhD,3.37,2022,Yes
+797,Employee_797,29.0,Female,,Intern,14,12848.0,PhD,4.3,2022,No
+798,Employee_798,47.0,Non-Binary,,Executive,20,6366.0,Bachelors,4.43,2023,No
+799,Employee_799,26.0,Male,Marketing,Executive,29,2871.0,PhD,2.85,2024,Yes
+800,Employee_800,,Female,Marketing,Intern,13,9498.0,High School,4.14,2022,Yes
+801,Employee_801,47.0,Non-Binary,Sales,Manager,19,3115.0,High School,4.79,2023,Yes
+802,Employee_802,25.0,Female,Finance,Assistant,27,9411.0,High School,2.1,2022,No
+803,Employee_803,40.0,Male,HR,Assistant,6,8510.0,Bachelors,2.59,2024,No
+804,Employee_804,41.0,Non-Binary,,Manager,20,4753.0,Bachelors,4.73,2021,Yes
+805,Employee_805,54.0,Male,Marketing,Assistant,22,,Masters,2.35,2024,No
+806,Employee_806,41.0,Male,Marketing,Analyst,11,,PhD,4.66,2024,No
+807,Employee_807,33.0,Female,,Intern,16,3364.0,Bachelors,4.92,2022,No
+808,Employee_808,22.0,Non-Binary,Finance,Intern,16,3768.0,High School,3.65,2022,Yes
+809,Employee_809,47.0,Male,Marketing,Manager,9,9954.0,High School,4.27,2024,No
+810,Employee_810,35.0,Male,,Assistant,29,,Bachelors,4.0,2023,No
+811,Employee_811,59.0,Non-Binary,Sales,Executive,28,,Bachelors,3.8,2023,No
+812,Employee_812,58.0,Male,Finance,Executive,18,14870.0,Bachelors,2.23,2023,No
+813,Employee_813,32.0,Male,IT,Assistant,13,,Masters,1.23,2022,No
+814,Employee_814,57.0,Non-Binary,Marketing,Executive,10,4737.0,High School,,2022,No
+815,Employee_815,34.0,Non-Binary,HR,Manager,1,6554.0,Masters,3.67,2024,No
+816,Employee_816,24.0,Non-Binary,Sales,Manager,17,3435.0,Masters,1.41,2021,Yes
+817,Employee_817,54.0,Non-Binary,IT,Assistant,6,14672.0,PhD,,2022,Yes
+818,Employee_818,27.0,Female,HR,Executive,11,8894.0,High School,1.56,2024,No
+819,Employee_819,31.0,Non-Binary,HR,Manager,25,10391.0,High School,3.86,2024,Yes
+820,Employee_820,26.0,Female,IT,Manager,1,13030.0,Bachelors,4.89,2021,No
+821,Employee_821,,Female,Sales,Analyst,26,2825.0,Bachelors,4.93,2023,No
+822,Employee_822,31.0,,Sales,Analyst,19,12226.0,PhD,2.98,2024,No
+823,Employee_823,23.0,Male,Finance,Manager,17,14172.0,Masters,4.48,2024,Yes
+824,Employee_824,34.0,Female,Marketing,Assistant,5,10274.0,Bachelors,3.95,2024,No
+825,Employee_825,23.0,Female,IT,Intern,23,6361.0,Bachelors,3.0,2023,No
+826,Employee_826,41.0,Male,IT,Intern,9,4485.0,High School,3.29,2023,Yes
+827,Employee_827,22.0,Male,IT,Manager,19,7432.0,High School,1.55,2021,Yes
+828,Employee_828,58.0,Male,Sales,Manager,14,7103.0,Bachelors,4.75,2022,No
+829,Employee_829,30.0,Non-Binary,Marketing,Manager,4,5278.0,High School,2.41,2023,Yes
+830,Employee_830,38.0,,Finance,Assistant,19,11962.0,PhD,2.78,2022,Yes
+831,Employee_831,30.0,,,Analyst,2,11332.0,Bachelors,3.69,2022,No
+832,Employee_832,32.0,Female,,Manager,4,10254.0,High School,2.34,2023,No
+833,Employee_833,36.0,Male,IT,Manager,29,6578.0,PhD,2.02,2024,No
+834,Employee_834,45.0,Non-Binary,Marketing,Executive,24,3867.0,High School,3.52,2021,Yes
+835,Employee_835,59.0,Male,Sales,Assistant,7,6542.0,High School,1.1,2022,Yes
+836,Employee_836,56.0,Non-Binary,Marketing,Manager,7,5075.0,High School,3.88,2024,Yes
+837,Employee_837,51.0,Male,Marketing,Executive,7,9254.0,Bachelors,3.06,2023,No
+838,Employee_838,52.0,Male,Sales,Intern,11,,Masters,3.42,2022,Yes
+839,Employee_839,,Male,IT,Manager,23,,High School,3.53,2022,Yes
+840,Employee_840,35.0,Male,Marketing,Manager,22,4486.0,PhD,3.11,2022,No
+841,Employee_841,32.0,Non-Binary,HR,Executive,7,4740.0,Bachelors,3.33,2024,No
+842,Employee_842,30.0,Non-Binary,Sales,Assistant,10,6466.0,Bachelors,3.74,2024,No
+843,Employee_843,55.0,Female,Finance,Manager,13,12797.0,PhD,4.01,2024,Yes
+844,Employee_844,33.0,Non-Binary,IT,Intern,7,10104.0,High School,3.91,2022,No
+845,Employee_845,56.0,Male,,Manager,28,10820.0,Masters,4.48,2022,Yes
+846,Employee_846,56.0,Female,Finance,Intern,29,8468.0,High School,1.76,2021,Yes
+847,Employee_847,,Female,Finance,Analyst,23,14688.0,PhD,,2021,No
+848,Employee_848,43.0,Female,Marketing,Analyst,27,11543.0,Bachelors,4.79,2024,No
+849,Employee_849,50.0,Male,,Intern,9,9993.0,Masters,2.59,2024,No
+850,Employee_850,29.0,Non-Binary,Marketing,Assistant,6,6603.0,Bachelors,1.5,2023,No
+851,Employee_851,32.0,Male,Sales,Manager,27,4576.0,PhD,3.1,2024,No
+852,Employee_852,58.0,Female,,Manager,16,7731.0,High School,1.44,2021,Yes
+853,Employee_853,,Male,IT,Analyst,3,5494.0,Masters,1.81,2021,Yes
+854,Employee_854,,Male,Marketing,Intern,28,6244.0,Bachelors,4.99,2021,Yes
+855,Employee_855,56.0,Non-Binary,Finance,Manager,12,13448.0,Bachelors,3.17,2022,No
+856,Employee_856,42.0,,HR,Manager,3,8094.0,Bachelors,2.14,2022,Yes
+857,Employee_857,58.0,Female,IT,Assistant,4,10031.0,High School,4.98,2024,No
+858,Employee_858,26.0,Male,Sales,Executive,25,9871.0,Masters,4.87,2023,No
+859,Employee_859,40.0,Male,,Analyst,21,4144.0,High School,2.76,2023,Yes
+860,Employee_860,35.0,Non-Binary,IT,Analyst,3,5644.0,High School,2.04,2023,Yes
+861,Employee_861,47.0,Male,IT,Executive,17,2742.0,High School,,2022,No
+862,Employee_862,25.0,Male,IT,Manager,5,6585.0,PhD,3.86,2021,Yes
+863,Employee_863,46.0,Male,HR,Assistant,23,10454.0,PhD,3.75,2021,No
+864,Employee_864,46.0,Non-Binary,Marketing,Assistant,23,9769.0,PhD,4.57,2022,Yes
+865,Employee_865,39.0,Female,Finance,Analyst,22,9630.0,Masters,3.76,2023,Yes
+866,Employee_866,29.0,Female,IT,Assistant,21,9328.0,High School,2.14,2023,Yes
+867,Employee_867,35.0,,IT,Executive,1,,High School,3.78,2024,Yes
+868,Employee_868,53.0,Female,IT,Manager,22,,PhD,2.22,2024,Yes
+869,Employee_869,59.0,,Marketing,Executive,10,8831.0,High School,,2023,No
+870,Employee_870,54.0,Non-Binary,Sales,Intern,27,6012.0,High School,,2022,Yes
+871,Employee_871,44.0,Female,Sales,Analyst,13,,Bachelors,1.31,2023,Yes
+872,Employee_872,36.0,,HR,Assistant,29,,High School,3.05,2024,Yes
+873,Employee_873,54.0,Male,Sales,Intern,4,4658.0,Bachelors,2.37,2023,No
+874,Employee_874,46.0,Female,IT,Assistant,5,,High School,2.31,2022,No
+875,Employee_875,38.0,Male,IT,Manager,9,14617.0,Masters,3.41,2021,No
+876,Employee_876,54.0,Male,IT,Manager,7,,PhD,2.29,2022,No
+877,Employee_877,23.0,Non-Binary,HR,Manager,13,12950.0,Bachelors,4.11,2022,No
+878,Employee_878,35.0,Non-Binary,IT,Assistant,23,6539.0,PhD,1.28,2024,Yes
+879,Employee_879,27.0,Non-Binary,Sales,Intern,2,4535.0,Bachelors,3.64,2022,Yes
+880,Employee_880,27.0,Non-Binary,Marketing,Manager,11,13963.0,Bachelors,4.24,2022,Yes
+881,Employee_881,24.0,Female,Marketing,Intern,15,,Bachelors,3.69,2024,No
+882,Employee_882,28.0,Non-Binary,Finance,Assistant,27,3357.0,Masters,2.99,2024,No
+883,Employee_883,29.0,Female,Sales,Intern,29,6323.0,High School,4.8,2021,Yes
+884,Employee_884,36.0,Non-Binary,IT,Assistant,22,9270.0,Bachelors,2.2,2023,No
+885,Employee_885,50.0,Female,Marketing,Assistant,16,11741.0,Masters,1.08,2022,No
+886,Employee_886,54.0,Male,Sales,Analyst,0,14682.0,Bachelors,2.73,2024,No
+887,Employee_887,51.0,Female,Marketing,Assistant,22,2798.0,High School,1.13,2021,Yes
+888,Employee_888,48.0,Female,IT,Assistant,9,9744.0,Bachelors,4.82,2023,Yes
+889,Employee_889,57.0,Non-Binary,Marketing,Executive,24,3423.0,Masters,1.84,2024,No
+890,Employee_890,50.0,Female,Finance,Manager,22,,High School,4.16,2023,No
+891,Employee_891,59.0,Male,Finance,Analyst,9,6806.0,Masters,4.1,2023,No
+892,Employee_892,54.0,Male,Marketing,Analyst,20,5299.0,High School,1.87,2022,No
+893,Employee_893,58.0,Non-Binary,Sales,Analyst,23,9078.0,High School,3.48,2022,Yes
+894,Employee_894,48.0,Male,Sales,Executive,1,7375.0,PhD,1.19,2024,No
+895,Employee_895,54.0,Female,Sales,Assistant,8,7826.0,PhD,2.93,2023,Yes
+896,Employee_896,,Male,Marketing,Manager,21,14754.0,PhD,1.06,2024,Yes
+897,Employee_897,43.0,Non-Binary,Sales,Intern,12,9082.0,High School,4.68,2024,Yes
+898,Employee_898,,Female,IT,Assistant,24,14737.0,Bachelors,4.9,2023,No
+899,Employee_899,31.0,Non-Binary,Finance,Executive,15,4302.0,Masters,1.89,2024,Yes
+900,Employee_900,26.0,Female,IT,Assistant,17,13405.0,Masters,1.83,2023,Yes
+901,Employee_901,31.0,Male,Sales,Assistant,18,13545.0,Masters,4.01,2023,No
+902,Employee_902,54.0,Non-Binary,IT,Executive,11,5157.0,PhD,2.01,2023,No
+903,Employee_903,59.0,Non-Binary,Sales,Analyst,7,5846.0,High School,4.58,2023,No
+904,Employee_904,34.0,Female,,Analyst,16,12163.0,PhD,3.3,2021,Yes
+905,Employee_905,52.0,Non-Binary,IT,Manager,14,5449.0,Bachelors,2.4,2023,No
+906,Employee_906,57.0,Female,Marketing,Manager,9,,High School,4.33,2022,Yes
+907,Employee_907,45.0,Female,Marketing,Analyst,14,,Masters,2.97,2022,Yes
+908,Employee_908,36.0,Female,HR,Intern,14,7337.0,PhD,4.65,2022,No
+909,Employee_909,50.0,Female,Sales,Assistant,22,10605.0,PhD,4.71,2023,Yes
+910,Employee_910,29.0,Male,,Intern,6,3743.0,Bachelors,1.66,2022,Yes
+911,Employee_911,26.0,Female,Sales,Assistant,12,8196.0,Bachelors,1.01,2021,Yes
+912,Employee_912,50.0,Non-Binary,Finance,Analyst,16,,PhD,4.94,2024,Yes
+913,Employee_913,25.0,Male,Sales,Manager,8,6457.0,Bachelors,4.62,2023,No
+914,Employee_914,33.0,Non-Binary,Marketing,Manager,7,4466.0,Masters,1.22,2022,Yes
+915,Employee_915,23.0,Male,IT,Intern,19,2875.0,Bachelors,4.33,2021,No
+916,Employee_916,48.0,,IT,Manager,25,2762.0,Bachelors,2.83,2024,Yes
+917,Employee_917,52.0,Male,,Analyst,26,6862.0,PhD,,2021,Yes
+918,Employee_918,57.0,Male,Finance,Intern,20,9002.0,PhD,4.51,2022,No
+919,Employee_919,57.0,Non-Binary,,Assistant,17,,High School,1.79,2021,Yes
+920,Employee_920,47.0,Non-Binary,Finance,Manager,12,14087.0,High School,,2024,Yes
+921,Employee_921,48.0,Female,Marketing,Executive,15,12636.0,PhD,1.82,2022,Yes
+922,Employee_922,26.0,Male,Finance,Manager,8,,Bachelors,3.45,2024,Yes
+923,Employee_923,41.0,Male,IT,Assistant,11,4393.0,Bachelors,1.89,2021,Yes
+924,Employee_924,32.0,Male,Marketing,Intern,11,10606.0,High School,3.18,2023,Yes
+925,Employee_925,31.0,Female,Sales,Assistant,5,14326.0,High School,3.74,2023,No
+926,Employee_926,59.0,Female,Finance,Executive,18,4152.0,High School,1.76,2023,No
+927,Employee_927,27.0,Female,Finance,Analyst,27,8040.0,Masters,3.08,2023,No
+928,Employee_928,29.0,Female,,Manager,6,14833.0,Masters,2.88,2024,Yes
+929,Employee_929,44.0,Female,Finance,Intern,24,6392.0,High School,1.28,2023,Yes
+930,Employee_930,47.0,Non-Binary,Sales,Analyst,2,3099.0,Bachelors,4.27,2024,Yes
+931,Employee_931,,Male,Marketing,Assistant,15,7315.0,High School,2.34,2022,No
+932,Employee_932,47.0,Male,IT,Intern,17,4412.0,Masters,3.3,2023,Yes
+933,Employee_933,34.0,Male,Sales,Analyst,15,11984.0,Bachelors,3.06,2024,No
+934,Employee_934,39.0,Male,HR,Intern,22,11292.0,Masters,3.05,2023,Yes
+935,Employee_935,46.0,Male,Sales,Executive,6,11072.0,Bachelors,1.43,2023,Yes
+936,Employee_936,,,Finance,Executive,3,6713.0,Masters,2.69,2023,Yes
+937,Employee_937,33.0,Male,Marketing,Manager,26,6137.0,Bachelors,2.81,2024,No
+938,Employee_938,57.0,Male,Marketing,Manager,24,12855.0,Bachelors,3.93,2021,Yes
+939,Employee_939,,Non-Binary,Sales,Executive,29,11790.0,Bachelors,4.36,2023,No
+940,Employee_940,26.0,Male,IT,Intern,7,8099.0,Bachelors,3.18,2023,Yes
+941,Employee_941,58.0,Non-Binary,HR,Executive,12,8948.0,PhD,,2022,Yes
+942,Employee_942,29.0,Female,,Manager,12,11057.0,Masters,1.95,2021,No
+943,Employee_943,49.0,Male,Finance,Executive,16,13262.0,Masters,1.66,2024,Yes
+944,Employee_944,52.0,,Finance,Executive,16,,PhD,1.5,2022,Yes
+945,Employee_945,30.0,Female,IT,Intern,4,9882.0,Bachelors,2.46,2023,Yes
+946,Employee_946,50.0,Female,Marketing,Analyst,5,13168.0,Bachelors,1.92,2022,Yes
+947,Employee_947,35.0,Non-Binary,Sales,Manager,18,11482.0,Masters,1.87,2022,No
+948,Employee_948,43.0,Female,Finance,Intern,12,6069.0,PhD,1.22,2023,No
+949,Employee_949,,Female,IT,Executive,24,10207.0,Bachelors,1.07,2021,Yes
+950,Employee_950,44.0,Female,Marketing,Executive,27,3246.0,Bachelors,1.41,2021,Yes
+951,Employee_951,22.0,Male,Marketing,Analyst,25,,Bachelors,1.69,2022,No
+952,Employee_952,58.0,Male,Marketing,Manager,13,7133.0,High School,2.72,2023,Yes
+953,Employee_953,42.0,Non-Binary,Marketing,Manager,21,3420.0,PhD,3.04,2024,No
+954,Employee_954,47.0,Non-Binary,Marketing,Assistant,3,11769.0,Bachelors,1.56,2022,Yes
+955,Employee_955,57.0,Male,Finance,Manager,27,9508.0,High School,2.7,2024,No
+956,Employee_956,,Non-Binary,IT,Analyst,6,13521.0,PhD,2.37,2022,No
+957,Employee_957,22.0,,Marketing,Assistant,7,4881.0,Bachelors,1.73,2022,No
+958,Employee_958,36.0,Female,HR,Assistant,24,6118.0,Masters,1.03,2023,No
+959,Employee_959,42.0,Female,HR,Executive,12,11489.0,High School,2.87,2023,Yes
+960,Employee_960,30.0,Non-Binary,IT,Executive,26,6943.0,High School,3.74,2024,Yes
+961,Employee_961,30.0,Male,Sales,Manager,5,2772.0,Bachelors,1.91,2024,No
+962,Employee_962,31.0,Male,Sales,Assistant,5,13702.0,Bachelors,1.53,2021,No
+963,Employee_963,47.0,Non-Binary,Sales,Executive,23,4273.0,High School,4.55,2023,No
+964,Employee_964,56.0,Male,HR,Analyst,27,5047.0,Masters,2.1,2022,No
+965,Employee_965,46.0,,Sales,Executive,20,5664.0,Masters,,2022,Yes
+966,Employee_966,47.0,Non-Binary,,Executive,29,7280.0,PhD,4.43,2021,No
+967,Employee_967,32.0,Non-Binary,Marketing,Assistant,2,3446.0,Bachelors,4.27,2023,No
+968,Employee_968,59.0,Male,HR,Assistant,27,13357.0,Masters,2.79,2022,No
+969,Employee_969,23.0,,,Intern,2,3006.0,PhD,2.96,2021,No
+970,Employee_970,28.0,Male,,Analyst,12,9219.0,Masters,1.87,2021,No
+971,Employee_971,39.0,Male,Marketing,Assistant,21,10935.0,Bachelors,1.31,2022,No
+972,Employee_972,48.0,Male,HR,Manager,1,11197.0,PhD,3.29,2022,No
+973,Employee_973,55.0,,Sales,Analyst,15,13850.0,PhD,1.39,2024,Yes
+974,Employee_974,48.0,Male,Sales,Analyst,21,8860.0,PhD,2.8,2023,No
+975,Employee_975,38.0,Non-Binary,Finance,Assistant,28,10157.0,Masters,4.76,2024,No
+976,Employee_976,,Female,Finance,Analyst,5,6090.0,Bachelors,4.81,2021,No
+977,Employee_977,46.0,,Sales,Assistant,7,12564.0,PhD,1.96,2022,Yes
+978,Employee_978,28.0,Non-Binary,IT,Executive,22,14485.0,High School,3.5,2024,Yes
+979,Employee_979,,Non-Binary,,Intern,7,3692.0,Bachelors,2.9,2021,Yes
+980,Employee_980,,Female,Finance,Executive,29,3964.0,High School,4.5,2023,No
+981,Employee_981,54.0,Female,Marketing,Assistant,24,2890.0,High School,2.09,2022,No
+982,Employee_982,50.0,,Sales,Assistant,5,8115.0,PhD,1.01,2024,No
+983,Employee_983,43.0,Female,,Executive,13,14069.0,PhD,1.65,2023,Yes
+984,Employee_984,47.0,Female,Finance,Manager,2,8606.0,Masters,2.4,2024,No
+985,Employee_985,49.0,Male,Sales,Manager,9,11364.0,Masters,2.26,2021,Yes
+986,Employee_986,42.0,Non-Binary,Sales,Manager,2,5060.0,Masters,4.17,2023,Yes
+987,Employee_987,28.0,Male,IT,Assistant,26,8367.0,Bachelors,3.72,2024,Yes
+988,Employee_988,38.0,Female,Marketing,Analyst,11,3711.0,Masters,,2023,Yes
+989,Employee_989,41.0,Female,Marketing,Assistant,16,11621.0,High School,2.83,2021,Yes
+990,Employee_990,41.0,Female,Sales,Analyst,26,4039.0,Masters,1.38,2023,No
+991,Employee_991,43.0,Male,HR,Executive,28,11604.0,PhD,4.59,2024,No
+992,Employee_992,49.0,Male,Finance,Intern,4,3143.0,Masters,4.74,2021,Yes
+993,Employee_993,28.0,Female,Finance,Analyst,29,11193.0,Bachelors,4.92,2022,No
+994,Employee_994,22.0,Male,Sales,Manager,19,11421.0,Bachelors,,2024,No
+995,Employee_995,53.0,Male,HR,Assistant,24,3783.0,High School,1.7,2024,Yes
+996,Employee_996,34.0,Female,IT,Executive,8,10180.0,Bachelors,1.18,2021,Yes
+997,Employee_997,51.0,Male,Sales,Manager,29,12810.0,Masters,3.32,2021,No
+998,Employee_998,44.0,Non-Binary,Sales,Executive,20,9845.0,PhD,4.65,2022,No
+999,Employee_999,40.0,Non-Binary,Finance,Intern,25,6886.0,Bachelors,1.71,2024,No
+1000,Employee_1000,53.0,Non-Binary,Sales,Assistant,19,14528.0,High School,1.03,2021,No
