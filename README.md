@@ -64,24 +64,17 @@ This project demonstrates real-world HR data analysis — transforming raw, inco
 
 ---
 
-## 📂 Project Structure
+## 📬 Contact
 
-hr-employee-insights/
-│
-├── data/
-│   └── hr_employee_data.csv
-│
-├── notebooks/
-│   └── hr_analysis.ipynb
-│
-├── scripts/
-│   └── clean_hr_data.py
-│
-├── visuals/
-│   └── turnover_by_department.png
-│
-├── README.md
-├── requirements.txt
-├── .gitignore
-└── LICENSE
+**Chibuzor Michael Mathias**  
+Data Analyst & Excel Automation Specialist  
+🔗 [LinkedIn](https://www.linkedin.com/in/michael-matty)  
+📧 mathiasmichael2@gmail.com
 
+I'm open to:
+- 📈 Freelance or contract-based data analysis projects  
+- 🤝 Collaboration on open-source or analytics-driven initiatives  and volunteering.
+
+I'm open to freelance work, collaborations, and volunteering for data-focused projects. Let’s connect.
+
+Let’s connect!
