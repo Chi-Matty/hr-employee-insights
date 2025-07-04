@@ -12,38 +12,6 @@ Synthetic HR dataset with 1,000 rows. Includes employee demographics, salary, te
 
 ---
 
-## 🛠️ Project Tasks
-
-### 1. Data Cleaning
-
-- Identify and quantify missing values across all columns.
-- Apply suitable imputation techniques:
-- columns.
-  - Drop rows only when data is irrecoverable or critical.
-
----
-
-### 2. Key Employee Insights
-
-#### i. Performance & Retention Analysis
-
-- Do older employees tend to leave more?
-- Relationship between `Years_at_Company` and `Performance_Score`.
-- Compare performance scores of employees who left vs. those who stayed.
-
----
-
-#### ii. Appraisal Monitoring
-
-- Number of employees not appraised in the last 2 years.
-- Top 10 longest-serving employees and their last appraisal year.
-
----
-
-#### iii. Predictive Hint (Optional)
-
-Use basic business logic to identify employees at risk of leaving (e.g. low salary + low performance).
-
 ---
 
 ## 🔧 Tools Used
